@@ -1,0 +1,107 @@
+{
+  "id": "3850232",
+  "name": "画像中心",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1305451",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "3868282",
+      "name": "应用管理",
+      "font_class": "yingyongguanli",
+      "unicode": "eb67",
+      "unicode_decimal": 60263
+    },
+    {
+      "icon_id": "5383890",
+      "name": "winfo-icon-查看报告",
+      "font_class": "winfo-icon-chakanbaogao",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "7542761",
+      "name": "tags",
+      "font_class": "tags",
+      "unicode": "e887",
+      "unicode_decimal": 59527
+    },
+    {
+      "icon_id": "22519167",
+      "name": "人群",
+      "font_class": "renqun",
+      "unicode": "e798",
+      "unicode_decimal": 59288
+    },
+    {
+      "icon_id": "31518601",
+      "name": "客户信息模板",
+      "font_class": "kehuxinxi",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "32561149",
+      "name": "Tab_地市话术",
+      "font_class": "Tab_dishihuashu",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "32561151",
+      "name": "管理中心",
+      "font_class": "guanlizhongxin",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "31518604",
+      "name": "数据统计",
+      "font_class": "shujutongji",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "31518607",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "32561152",
+      "name": "数据监控",
+      "font_class": "shujujiankong",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "33080318",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "33080319",
+      "name": "Tab_购买服务",
+      "font_class": "Tab_goumaifuwu",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "33116405",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    }
+  ]
+}

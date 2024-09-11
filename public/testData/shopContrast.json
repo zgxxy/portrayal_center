@@ -1,0 +1,566 @@
+{
+    "marketDetail":[
+        {
+            "marketName": "深圳前海壹方城",
+            "address": "深圳宝安区新湖路66号",
+            "commerceArea": 36,
+            "openDuration": 5,
+            "rent": "￥180~200/㎡*月",
+            "workDailyPassengerFlow":3,
+            "weekDailyPassengerFlow":0.7,
+            "PopulationAroundShopping":40,
+            "targetCrowdPenetrance":20,
+            "busStationNum":2,
+            "subwayStationNum":2,
+            "parkNum":1,
+            "ripenessType":"发展培育型"
+        },
+        {
+            "marketName": "深圳福田COCO PARK",
+            "address": "深圳市福田区福华三路269号",
+            "commerceArea": 8.5,
+            "openDuration": 16,
+            "rent": "￥330.8/㎡*月",
+            "workDailyPassengerFlow":4.1,
+            "weekDailyPassengerFlow":3.9,
+            "PopulationAroundShopping":30,
+            "targetCrowdPenetrance":30,
+            "busStationNum":9,
+            "subwayStationNum":3,
+            "parkNum":1,
+            "ripenessType":"成熟稳定型"
+        },
+        {
+            "marketName": "深圳罗湖万象城",
+            "address": "广东省深圳市罗湖区宝安南路1881号",
+            "commerceArea": 18.8,
+            "openDuration": 18,
+            "rent": "￥1200~2000/㎡*月",
+            "workDailyPassengerFlow":4.3,
+            "weekDailyPassengerFlow":5,
+            "PopulationAroundShopping":51.8,
+            "targetCrowdPenetrance":35,
+            "busStationNum":47,
+            "subwayStationNum":6,
+            "parkNum":2,
+            "ripenessType":"独占鳌头型"
+        }
+    ],
+    "passengerFlowInfo":{
+        "dataList":[
+            {
+                "name":"万象城",
+                "data":["32","232","454","343","32","65","63","556","466","5","67","88","33","67"]
+            },
+            {
+                "name":"COCOPARK",
+                "data":["234","324","43","72","89","54","662","556","33","100","76","87","232","233"]
+            },
+            {
+                "name":"壹方城",
+                "data":["78","65","76","542","342","112","34","556","76","98","23","3","43","76"]
+            }
+        ],
+        "xaxis":[
+            "1月1日（周日）","1月2日（周一）","1月3日（周二）","1月4日（周三）","1月5日（周四）","1月6日（周五）","1月7日（周六）","1月8日（周日）","1月9日（周一）","1月10日（周二）","1月11日（周三）","1月12日（周四）","1月13日（周五）"
+        ]
+      },
+    "passengerFlowDistribution":{
+        "xaxis": [
+          "前海壹方城",
+          "福田COCOPARK",
+          "罗湖万象城"
+        ],
+        "dataList": [
+          {
+            "cname": "工作日日均客流",
+            "cdata": [
+              "12",
+              "34",
+              "54"
+            ],
+            "iname": null,
+            "idata": null
+          },
+          {
+            "cname": "节假日日均客流",
+            "cdata": [
+              "22",
+              "56",
+              "78"
+            ],
+            "iname": null,
+            "idata": null
+          }
+        ]
+      },
+    "surroundingPopulation":{
+        "xaxis": [
+          "前海壹方城",
+          "福田COCOPARK",
+          "罗湖万象城"
+        ],
+        "dataList": [
+          {
+            "cname": "居住人口",
+            "cdata": [
+              "32",
+              "43",
+              "65"
+            ],
+            "iname": null,
+            "idata": null
+          },
+          {
+            "cname": "工作人口",
+            "cdata": [
+              "12",
+              "56",
+              "32"
+            ],
+            "iname": null,
+            "idata": null
+          }
+        ]
+      },
+    "trafficMating":{
+        "xaxis": [
+          "停车场",
+          "公交站",
+          "地铁站"
+        ],
+        "dataList": [
+          {
+            "cname": "福田COCOPARK",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "53.00",
+              "35.00",
+              "67.00"
+            ]
+          },
+          {
+            "cname": "前海壹方城",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "56.76",
+              "23.66",
+              "33.56"
+            ]
+          },
+          {
+            "cname": "罗湖万象城",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "76.87",
+              "87.46",
+              "32.43"
+            ]
+          }
+        ]
+      },
+    "peripheralMaturity":{
+        "xaxis": [
+          "教育成熟度",
+          "医疗成熟度",
+          "办公指数",
+          "居住指数"
+        ],
+        "dataList": [
+          {
+            "cname": "福田COCOPARK",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "53.00",
+              "35.00",
+              "67.00",
+              "55.66"
+            ]
+          },
+          {
+            "cname": "前海壹方城",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "56.76",
+              "23.66",
+              "33.56",
+              "23.65"
+            ]
+          },
+          {
+            "cname": "罗湖万象城",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "76.87",
+              "87.46",
+              "32.43",
+              "54.66"
+            ]
+          }
+        ]
+      },
+    "commercialGroup":[
+      {
+        "name":"前海壹方城",
+        "data":[
+          {
+            "name": "零售店",
+            "value": "37.63"
+          },
+          {
+            "name": "餐饮",
+            "value": "37.63"
+          },
+          {
+            "name": "亲子",
+            "value": "20.60"
+          },
+          {
+            "name": "娱乐",
+            "value": "27.63"
+          },
+          {
+            "name": "美容",
+            "value": "13.77"
+          }
+        ]
+      },
+      {
+        "name":"福田COCOPARK",
+        "data":[
+          {
+              "name": "零售店",
+              "value": "42.63"
+          },
+          {
+              "name": "餐饮",
+              "value": "15.20"
+          },
+          {
+              "name": "娱乐",
+              "value": "32.60"
+          },
+          {
+              "name": "亲子",
+              "value": "27.63"
+          },
+          {
+            "name": "教育",
+            "value": "13.77"
+          }
+        ]
+      },
+      {
+        "name":"罗湖万象城",
+        "data":[
+          {
+              "name": "零售店",
+              "value": "37.63"
+          },
+          {
+              "name": "餐饮",
+              "value": "11.63"
+          },
+          {
+              "name": "亲子",
+              "value": "22.60"
+          },
+          {
+              "name": "娱乐",
+              "value": "20.63"
+          },
+          {
+            "name": "美容",
+            "value": "46.77"
+          } 
+        ]
+      }
+    ],
+    "genderVO":{
+        "xaxis": [
+          "男",
+          "女"
+        ],
+        "dataList": [
+          {
+            "cname": "前海壹方城",
+            "iname": "壹方城TGI",
+            "idata": [
+                "32.32",
+                "23.11"
+            ],
+            "cdata": [
+              "56.76",
+              "23.66"
+            ]
+          },
+          {
+            "cname": "福田COCOPARK",
+            "iname": "COCOPARK TGI",
+            "idata": [
+              "45.22",
+              "12.12"
+            ],
+            "cdata": [
+              "53.00",
+              "35.00"
+            ]
+          },
+          
+          {
+            "cname": "罗湖万象城",
+            "iname": "万象城TGI",
+            "idata": [
+              "31.22",
+              "13.76"
+            ],
+            "cdata": [
+              "76.87",
+              "87.46"
+            ]
+          }
+        ]
+      },
+    "ageDistributeVO":{
+        "xaxis": [
+          "18-24岁",
+          "25-34岁",
+          "35-44岁",
+          "45岁以上"
+        ],
+        "dataList": [
+          {
+            "cname": "前海壹方城",
+            "iname": "壹方城TGI",
+            "idata": [
+                "32.32",
+                "23.11",
+                "56.23",
+                "43.32"
+            ],
+            "cdata": [
+              "56.76",
+              "23.66",
+              "12.22",
+              "31.66"
+            ]
+          },
+          {
+            "cname": "福田COCOPARK",
+            "iname": "COCOPARK TGI",
+            "idata": [
+              "45.22",
+              "12.12",
+              "23.63",
+              "18.56"
+            ],
+            "cdata": [
+              "53.00",
+              "35.00",
+              "65.32",
+              "23.77"
+            ]
+          },
+          {
+            "cname": "罗湖万象城",
+            "iname": "万象城TGI",
+            "idata": [
+              "31.22",
+              "13.76",
+              "23.34",
+              "76.23"
+            ],
+            "cdata": [
+              "76.87",
+              "87.46",
+              "23.56",
+              "66.33"
+            ]
+          }
+        ]
+      },
+    "isMarried":[
+        {
+          "name": "前海壹方城",
+          "value": "53"
+        },
+        {
+          "name": "福田COCOPARK",
+          "value": "46"
+        },
+        {
+          "name": "罗湖万象城",
+          "value": "63"
+        }
+      ],
+    "haveChild":[
+      {
+        "name": "前海壹方城",
+        "value": "45"
+      },
+      {
+        "name": "福田COCOPARK",
+        "value": "36"
+      },
+      {
+        "name": "罗湖万象城",
+        "value": "53"
+      }
+      ],
+    "childAgeDistribute":{
+        "xaxis": [
+          "0-1岁",
+          "1-3岁",
+          "3-6岁",
+          "6岁以上"
+        ],
+        "dataList": [
+          {
+            "cname": "前海壹方城",
+            "iname": "壹方城TGI",
+            "idata": [
+                "32.32",
+                "23.11",
+                "56.23",
+                "43.32"
+            ],
+            "cdata": [
+              "56.76",
+              "23.66",
+              "12.22",
+              "31.66"
+            ]
+          },
+          {
+            "cname": "福田COCOPARK",
+            "iname": "COCOPARK TGI",
+            "idata": [
+              "45.22",
+              "12.12",
+              "23.63",
+              "18.56"
+            ],
+            "cdata": [
+              "53.00",
+              "35.00",
+              "65.32",
+              "23.77"
+            ]
+          },
+          {
+            "cname": "罗湖万象城",
+            "iname": "万象城TGI",
+            "idata": [
+              "31.22",
+              "13.76",
+              "23.34",
+              "76.23"
+            ],
+            "cdata": [
+              "76.87",
+              "87.46",
+              "23.56",
+              "66.33"
+            ]
+          }
+        ]
+      },
+    "haveHouseCustomer":{
+        "xaxis": [
+          "福田COCOPARK",
+          "前海壹方城",
+          "罗湖万象城"
+        ],
+        "dataList": [{
+          "name": "数量",
+          "data": [
+            "160246","133016","225515"
+          ],
+          "percentage":["58%","31%","47%"]
+        }]
+      },
+    "incomeLevel":{
+        "xaxis": [
+          "高",
+          "中",
+          "低"
+        ],
+        "dataList": [
+          {
+            "cname": "福田COCOPARK",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "53.00",
+              "35.00",
+              "67.00"
+            ]
+          },
+          {
+            "cname": "前海壹方城",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "56.76",
+              "23.66",
+              "33.56"
+            ]
+          },
+          {
+            "cname": "罗湖万象城",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "76.87",
+              "87.46",
+              "32.43"
+            ]
+          }
+        ]
+      },
+    "consumptionLevel":{
+        "xaxis": [
+          "高",
+          "中",
+          "低"
+        ],
+        "dataList": [
+          {
+            "cname": "福田COCOPARK",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "54.00",
+              "23.00",
+              "67.00"
+            ]
+          },
+          {
+            "cname": "前海壹方城",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "56.76",
+              "22.66",
+              "21.56"
+            ]
+          },
+          {
+            "cname": "罗湖万象城",
+            "iname": null,
+            "idata": null,
+            "cdata": [
+              "86.87",
+              "32.46",
+              "67.43"
+            ]
+          }
+        ]
+      }
+}

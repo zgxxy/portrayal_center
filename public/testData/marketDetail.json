@@ -1,0 +1,1019 @@
+{
+    "/*customerData*/": "客流信息数据",
+    "customerData":{
+        "data": [
+          {
+            "name": "累计客流",
+            "value": "40589145"
+          },
+          {
+            "name": "工作日客流",
+            "value": "24636959"
+          },
+          {
+            "name": "节假日客流",
+            "value": "15952986"
+          }
+        ],
+        "/*dayPassingFlowVO*/":"工作日/节假日日均客流量趋势",
+        "dayPassingFlowVO": {
+            "xaxis": [
+              "10-12",
+              "12-14",
+              "14-16",
+              "16-18",
+              "18-20",
+              "20-22"
+            ],
+            "dataList": [
+              {
+                "cname": "工作日",
+                "cdata": [
+                  "21223",
+                  "23224",
+                  "56566",
+                  "31222",
+                  "35454",
+                  "45657"
+                ],
+                "iname": "工作日日均",
+                "idata": ["4242","3223","1223","7553","6765","6753"]
+              },
+              {
+                "cname": "节假日",
+                "cdata": [
+                  "32321",
+                  "86555",
+                  "12435",
+                  "13545",
+                  "87687",
+                  "86454"
+                ],
+                "iname": "节假日日均",
+                "idata": ["3434","1233","13222","7752","12342","7123"]
+              }
+            ]
+          },
+        "/*monthPassingFlowVO*/":"月均客流量趋势",
+        "monthPassingFlowVO": {
+            "dataList":[
+                {
+                    "name":"客流量",
+                    "data":["42","54","65","97","32","65","63","32","11","5","67","88"]
+                }
+            ],
+            "xaxis":[
+                "1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"
+            ]
+            
+          } 
+    },
+    "/*customerSource*/": "客流来源数据 houseData:列表数据",
+    "customerSource": [
+          {
+            "houseName": "供销商厦",
+            "geoCenter": {
+              "lng": "117.391622",
+              "lat": "38.994324"
+            },
+            "contributionRate": "23",
+            "permeateRate": "12.3"
+          },
+          {
+            "houseName": "新洋世纪商厦(宏达写字楼西南)",
+            "geoCenter": {
+              "lng": "117.66795",
+              "lat": "39.034444"
+            },
+            "contributionRate": "2.1",
+            "permeateRate": "20.3"
+          },
+          {
+            "houseName": "友谊新都百货",
+            "geoCenter": {
+              "lng": "117.205777",
+              "lat": "39.153719"
+            },
+            "contributionRate": "3.2",
+            "permeateRate": "18.2"
+          },
+          {
+            "houseName": "滨海商厦",
+            "geoCenter": {
+              "lng": "117.511796",
+              "lat": "38.735252"
+            },
+            "contributionRate": "5.6",
+            "permeateRate": "30.3"
+          },
+          {
+            "houseName": "中原·麦购时代广场",
+            "geoCenter": {
+              "lng": "117.194275",
+              "lat": "39.142157"
+            },
+            "contributionRate": "8.7",
+            "permeateRate": "26.3"
+          },
+          {
+            "houseName": "信泰时代",
+            "geoCenter": {
+              "lng": "117.502419",
+              "lat": "39.049065"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "金元宝滨海国际购物中心",
+            "geoCenter": {
+              "lng": "117.694453",
+              "lat": "39.039118"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "王卜庄镇集贸市场",
+            "geoCenter": {
+              "lng": "117.453174",
+              "lat": "39.691609"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "虹都中心",
+            "geoCenter": {
+              "lng": "117.1616",
+              "lat": "39.178509"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "天佑城",
+            "geoCenter": {
+              "lng": "117.179612",
+              "lat": "39.14394"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "大津城",
+            "geoCenter": {
+              "lng": "117.179653",
+              "lat": "39.060497"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "瑞丰广场",
+            "geoCenter": {
+              "lng": "117.067316",
+              "lat": "39.391968"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "上谷商业中心",
+            "geoCenter": {
+              "lng": "117.183186",
+              "lat": "39.097576"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "骏业广场",
+            "geoCenter": {
+              "lng": "117.427744",
+              "lat": "40.010849"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "古林便民早市",
+            "geoCenter": {
+              "lng": "117.487383",
+              "lat": "38.842907"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "友阿奥特莱斯",
+            "geoCenter": {
+              "lng": "117.637132",
+              "lat": "39.068076"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "五一阳光国际儿童商业广场",
+            "geoCenter": {
+              "lng": "117.078018",
+              "lat": "39.371537"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "州河湾购物广场",
+            "geoCenter": {
+              "lng": "117.4239",
+              "lat": "40.021855"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "徐庄商贸市场",
+            "geoCenter": {
+              "lng": "117.264867",
+              "lat": "39.190249"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "鹏欣·水游城A座",
+            "geoCenter": {
+              "lng": "117.176361",
+              "lat": "39.154577"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "荣圣泰生活广场",
+            "geoCenter": {
+              "lng": "117.189043",
+              "lat": "39.066358"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "永旺梦乐城(津南店)",
+            "geoCenter": {
+              "lng": "117.348252",
+              "lat": "39.03458"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "河东金水牛",
+            "geoCenter": {
+              "lng": "117.229116",
+              "lat": "39.144008"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "桂发祥食品广场(南楼店)",
+            "geoCenter": {
+              "lng": "117.229592",
+              "lat": "39.09978"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "温州国际商贸城B座",
+            "geoCenter": {
+              "lng": "117.203523",
+              "lat": "39.058604"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "武清环渤海天宝盛市",
+            "geoCenter": {
+              "lng": "117.061377",
+              "lat": "39.447652"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "天下宜家商业广场",
+            "geoCenter": {
+              "lng": "117.092169",
+              "lat": "39.401176"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "水城鸿嘉广场",
+            "geoCenter": {
+              "lng": "117.052809",
+              "lat": "39.36285"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "怡乐天地休闲娱乐广场",
+            "geoCenter": {
+              "lng": "117.230847",
+              "lat": "39.108422"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "天津永旺购物中心-APM",
+            "geoCenter": {
+              "lng": "117.225293",
+              "lat": "39.032934"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          },
+          {
+            "houseName": "华苑新天地生活广场",
+            "geoCenter": {
+              "lng": "117.14274",
+              "lat": "39.088221"
+            },
+            "contributionRate": "",
+            "permeateRate": ""
+          }
+        ],
+    "/*customerPortrayal*/": "客流画像数据 ",
+    "customerPortrayal":{
+        "/*residentPopulation*/":"居住人群",
+        "residentPopulation": {
+          "busicData": [
+            {
+              "name": "居住人口",
+              "value": "1094389"
+            },
+            {
+              "name": "人口密度",
+              "value": "38686"
+            },
+            {
+              "name": "较全市人口密度",
+              "value": "1430.3"
+            }
+          ],
+          "genderDistribution": [
+            {
+              "name": "男",
+              "value": "47.4",
+              "TGI": 133
+            },
+            {
+              "name": "女",
+              "value": "52.6",
+              "TGI": 95
+            }
+          ],
+          "isMarried": 79,
+          "haveChildren": 69, 
+          "ageDistribution": {
+            "xaxis": [
+              "18岁以下",
+              "18-24岁",
+              "25-34岁",
+              "35-44岁",
+              "45岁以上"
+            ],
+            "dataList": [
+              {
+                "cname": "男",
+                "cdata": [
+                  "12",
+                  "34",
+                  "54",
+                  "23",
+                  "67"
+                ],
+                "iname": "男TGI",
+                "idata": ["31","23","45","6","12"]
+              },
+              {
+                "cname": "女",
+                "cdata": [
+                  "22",
+                  "56",
+                  "78",
+                  "13",
+                  "45"
+                ],
+                "iname": "女TGI",
+                "idata": ["12","43","21","26","30"]
+              }
+            ]
+          }, 
+          "/*incomeLevel*/":"收入水平",
+          "incomeLevel": {
+            "xaxis": [
+              "高",
+              "中",
+              "低"
+            ],
+            "dataList": [
+              {
+                "cname": null,
+                "cdata": [
+                  "99",
+                  "75",
+                  "86"
+                ],
+                "iname": null,
+                "idata": null
+              }
+            ]
+          }, 
+          "/*educationalLevel*/":"学历水平",
+          "educationalLevel": {
+            "xaxis": [
+              "高",
+              "中",
+              "低"
+            ],
+            "dataList": [
+              {
+                "cname": null,
+                "cdata": [
+                  "99",
+                  "75",
+                  "86"
+                ],
+                "iname": null,
+                "idata": null
+              }
+            ]
+          }
+        },
+        
+        "workPopulation": {
+          "busicData": [
+            {
+              "name": "居住人口",
+              "value": "766314"
+            },
+            {
+              "name": "人口密度",
+              "value": "27089"
+            },
+            {
+              "name": "较全市人口密度",
+              "value": "3583.2"
+            }
+          ],
+          "genderDistribution": [
+            {
+              "name": "男",
+              "value": "55.9",
+              "TGI": 102
+            },
+            {
+              "name": "女",
+              "value": "44.1",
+              "TGI": 130
+            }
+          ],
+          "isMarried": 45, 
+          "haveChildren": 36,
+          "ageDistribution": {
+            "xaxis": [
+              "18岁以下",
+              "18-24岁",
+              "25-34岁",
+              "35-44岁",
+              "45岁以上"
+            ],
+            "dataList": [
+              {
+                "cname": "男",
+                "cdata": [
+                  "12",
+                  "34",
+                  "54",
+                  "23",
+                  "67"
+                ],
+                "iname": "男TGI",
+                "idata": ["31","23","45","6","12"]
+              },
+              {
+                "cname": "女",
+                "cdata": [
+                  "22",
+                  "56",
+                  "78",
+                  "13",
+                  "45"
+                ],
+                "iname": "女TGI",
+                "idata": ["12","43","21","26","30"]
+              }
+            ]
+          },
+          "incomeLevel": {
+            "xaxis": [
+              "高",
+              "中",
+              "低"
+            ],
+            "dataList": [
+              {
+                "cname": null,
+                "cdata": [
+                  "99",
+                  "75",
+                  "86"
+                ],
+                "iname": null,
+                "idata": null
+              }
+            ]
+          },
+          "educationalLevel": {
+            "xaxis": [
+              "高",
+              "中",
+              "低"
+            ],
+            "dataList": [
+              {
+                "cname": null,
+                "cdata": [
+                  "99",
+                  "75",
+                  "86"
+                ],
+                "iname": null,
+                "idata": null
+              }
+            ]
+          }
+        }
+    },
+    "/*peripheralData*/": "周边配套数据 SurroundingShopStatistics:柱形图数据  detailTable:表格数据" ,
+    "peripheralData":[
+          {
+            "label": "商场",
+            "SurroundingShopStatistics": {
+              "xaxis": ["独立百货", "购物中心", "商业街"],
+              "dataList": [
+                {
+                  "cname": null,
+                  "cdata": ["99", "75", "86"],
+                  "iname": null,
+                  "idata": null
+                }
+              ]
+            },
+
+            "@name":"店铺名称",
+            "@type":"类别",
+            "@eigenvector":"商业面积",
+            "detailTable": [
+              {
+                "name": "广州友谊OUTLETS（时代广场）",
+                "type": "独立百货", 
+                "eigenvector": "6.6",
+                "geoCenter": {
+                    "lng": "117.487383",
+                    "lat": "38.842907"
+                  }
+              },
+              {
+                "name": "广州广百百货（天河中怡店）",
+                "type": "独立百货", 
+                "eigenvector": "7",
+                "geoCenter": {
+                    "lng": "117.391622",
+                    "lat": "38.994324"
+                  }
+              },
+              {
+                "name": "广州摩登百货（岗顶店）", 
+                "type": "独立百货", 
+                "eigenvector": "3.75",
+                "geoCenter": {
+                    "lng": "117.66795",
+                    "lat": "39.034444"
+                  }
+              },
+              {
+                "name": "广州广百百货（山东店）", 
+                "type": "独立百货",
+                "eigenvector": "",
+                "geoCenter": {
+                    "lng": "117.205777",
+                    "lat": "39.153719"
+                  }
+              },
+              {
+                "name": "广州王府井百货",
+                "type": "独立百货", 
+                "eigenvector": "4.5",
+                "geoCenter": {
+                    "lng": "117.511796",
+                    "lat": "38.735252"
+                  }
+              }
+            ]
+          },
+          {
+            "label": "小区",
+            "SurroundingShopStatistics": {
+              "xaxis": ["普通住宅", "公寓", "别墅"],
+              "dataList": [
+                {
+                  "cname": null,
+                  "cdata": ["133", "221", "768"],
+                  "iname": null,
+                  "idata": null
+                }
+              ]
+            },
+            "detailTable": [
+              {
+                "name": "广州花园",
+                "type": "普通住宅", 
+                "eigenvector": "7783",
+                "geoCenter": {
+                    "lng": "117.194275",
+                    "lat": "39.142157"
+                  }
+              },
+              {
+                "name": "海逸阁",
+                "type": "普通住宅", 
+                "eigenvector": "7565",
+                "geoCenter": {
+                    "lng": "117.502419",
+                    "lat": "39.049065"
+                  }
+              },
+              {
+                "name": "广州摩登百货（岗顶店）",
+                "type": "普通住宅", 
+                "eigenvector": "8322",
+                "geoCenter": {
+                    "lng": "117.694453",
+                    "lat": "39.039118"
+                  }
+              },
+              {
+                "name": "广州广百百货（山东店）",
+                "type": "普通住宅", 
+                "eigenvector": "6515",
+                "geoCenter": {
+                    "lng": "117.453174",
+                    "lat": "39.691609"
+                  }
+              },
+              {
+                "name": "广州王府井百货", 
+                "type": "普通住宅", 
+                "eigenvector": "8017",
+                "geoCenter": {
+                    "lng": "117.1616",
+                    "lat": "39.178509"
+                  }
+              }
+            ]
+          },
+          {
+            "label": "交通",
+            "SurroundingShopStatistics": {
+              "xaxis": ["公交站", "地铁站", "停车场","火车站","加油站","充电站"],
+              "dataList": [
+                {
+                  "cname": null,
+                  "cdata": ["8.6", "7.5", "3.3","2.1","5.5","4.2"],
+                  "iname": null,
+                  "idata": null
+                }
+              ]
+            },
+            "detailTable": [
+              {
+                "name": "体育西", 
+                "type": "地铁站", 
+                "eigenvector": "200m",
+                "geoCenter": {
+                    "lng": "117.1616",
+                    "lat": "39.178509"
+                  }
+              },
+              {
+                "name": "岗顶", 
+                "type": "地铁站",
+                "eigenvector": "600m",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              },
+              {
+                "name": "体育中心", 
+                "type": "公交站", 
+                "eigenvector": "350m",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              },
+              {
+                "name": "石碑桥", 
+                "type": "地铁站",
+                "eigenvector": "步行30分钟",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              },
+              {
+                "name": "海心沙", 
+                "type": "地铁站",
+                "eigenvector": "步行15分钟",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              }
+            ]
+          },
+          {
+            "label": "学校",
+            "SurroundingShopStatistics": {
+              "xaxis": ["公交站", "地铁站", "停车场","火车站","加油站","充电站"],
+              "dataList": [
+                {
+                  "cname": null,
+                  "cdata": ["8.6", "7.5", "3.3","2.1","5.5","4.2"],
+                  "iname": null,
+                  "idata": null
+                }
+              ]
+            },
+            "detailTable": [
+              {
+                "name": "体育西", 
+                "type": "地铁站",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              },
+              {
+                "name": "岗顶", 
+                "type": "地铁站",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              },
+              {
+                "name": "体育中心", 
+                "type": "公交站",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              },
+              {
+                "name": "石碑桥", 
+                "type": "地铁站",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              },
+              {
+                "name": "海心沙", 
+                "type": "地铁站",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              }
+            ]
+          },
+          {
+            "label": "医院",
+            "SurroundingShopStatistics": {
+              "xaxis": ["公交站", "地铁站", "停车场","火车站","加油站","充电站"],
+              "dataList": [
+                {
+                  "cname": null,
+                  "cdata": ["8.6", "7.5", "3.3","2.1","5.5","4.2"],
+                  "iname": null,
+                  "idata": null
+                }
+              ]
+            },
+            "detailTable": [
+              {
+                "name": "体育西", 
+                "type": "地铁站",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              },
+              {
+                "name": "岗顶", 
+                "type": "地铁站",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              },
+              {
+                "name": "体育中心", 
+                "type": "公交站",
+                "geoCenter": {
+                    "lng": "",
+                    "lat": ""
+                  }
+              },
+              {
+                "name": "石碑桥",
+                "type": "地铁站",
+                "geoCenter": null
+              },
+              {
+                "name": "海心沙", 
+                "type": "地铁站"
+              }
+            ]
+          }
+        ],
+    "/*commercialGroup*/": "业态组成数据 businessDistributionPie:饼状图数据  businessDistributionColumn:柱形图  commercialTypeList:下拉框数据" ,
+    "commercialGroup":{
+        "businessDistributionPie": [
+            {
+              "name": "零售",
+              "value": "55.47",
+              "id":"0"
+            },
+            {
+              "name": "餐饮",
+              "value": "25.78",
+              "id":"1"
+            },
+            {
+              "name": "亲子",
+              "value": "4.69",
+              "id":"2"
+            },
+            {
+              "name": "生活服务",
+              "value": "7.81",
+              "id":"3"
+            },
+            {
+              "name": "休闲娱乐",
+              "value": "6.25",
+              "id":"4"
+            }
+          ],
+        "businessDistributionColumn": {
+            "xaxis": [
+              "杂货",
+              "化妆品",
+              "户外活动",
+              "服饰",
+              "鞋包",
+              "母婴"
+            ],
+            "dataList": [
+              {
+                "cname": null,
+                "cdata": [
+                  "10",
+                  "13",
+                  "7",
+                  "21",
+                  "16",
+                  "10"
+                ],
+                "iname": null,
+                "idata": null
+              }
+            ]
+          },
+        "commercialTypeList": [
+          {
+            "value": "",
+            "label": "全部"
+          },
+          {
+            "value": "零售",
+            "label": "零售"
+          },
+          {
+            "value": "餐饮",
+            "label": "餐饮"
+          },
+          {
+            "value": "亲子",
+            "label": "亲子"
+          },
+          {
+            "value": "生活服务",
+            "label": "生活服务"
+          },
+          {
+            "value": "休闲娱乐",
+            "label": "休闲娱乐"
+          },
+          {
+            "value": "汽车",
+            "label": "汽车"
+          }
+        ],
+        "floorList": [
+          {
+            "value": "",
+            "label": "全部"
+          },
+          {
+            "value": "F1",
+            "label": "F1"
+          },
+          {
+            "value": "F2",
+            "label": "F2"
+          },
+          {
+            "value": "F3",
+            "label": "F3"
+          },
+          {
+            "value": "F4",
+            "label": "F4"
+          },
+          {
+            "value": "F5",
+            "label": "F5"
+          }
+        ],
+        "storeDetailTable": [
+          {
+            "storeName": "万宝龙MONTBLANC",
+            "floor": "F1层",
+            "AffiliatedBrand": "MONTBLANC万宝龙",
+            "PrimaryClassification": "零售",
+            "secondaryClassification": "奢侈品",
+            "affiliatedShop": "天河城广场",
+            "consumptionPerson": ""
+          },
+          {
+            "storeName": "积家jeager-LeCoultre",
+            "floor": "F1层",
+            "AffiliatedBrand": "积家",
+            "PrimaryClassification": "零售",
+            "secondaryClassification": "奢侈品",
+            "affiliatedShop": "天河城广场",
+            "consumptionPerson": ""
+          },
+          {
+            "storeName": "ARMANI",
+            "floor": "F1层",
+            "AffiliatedBrand": "ARMANI",
+            "PrimaryClassification": "零售",
+            "secondaryClassification": "奢侈品",
+            "affiliatedShop": "天河城广场",
+            "consumptionPerson": "973"
+          },
+          {
+            "storeName": "less", 
+            "floor": "F1层", 
+            "AffiliatedBrand": "less", 
+            "PrimaryClassification": "零售",
+            "secondaryClassification": "服饰",
+            "affiliatedShop": "天河城广场", 
+            "consumptionPerson": "939"
+          },
+          {
+            "storeName": "MLB",
+            "floor": "F1层", 
+            "AffiliatedBrand": "MLB", 
+            "PrimaryClassification": "零售",
+            "secondaryClassification": "服饰",
+            "affiliatedShop": "天河城广场", 
+            "consumptionPerson": ""
+          }
+        ]
+    }
+}

@@ -1,0 +1,2975 @@
+
+	 {
+		
+			"basicInformVO": {
+			  "familyConduitVO": [
+				{
+				 "marry": "93.50",
+				 "haveChildren": "98.85",
+				 "haveHouse":"23.23",
+				 "insightName":"逍客"
+			  	},
+				{
+				 "marry": "93.50",
+				 "haveChildren": "98.85",
+				 "haveHouse":"64.56",
+				 "insightName":"思域"
+				},
+				{
+				 "marry": "75.34",
+				 "haveChildren": "76.6",
+				 "haveHouse":"67.55",
+				 "insightName":"楼兰"
+				}
+			 ],
+			 "haveCar":[
+				{
+					"haveCar":"93.50",
+					"insightName":"逍客"
+				},
+				{
+					"haveCar":"65.23",
+					"insightName":"思域"
+				}
+			 ],
+			  "genderVO": 
+			  [
+				{
+				 "manProPort": "70.00",
+				 "manTGI": "123",
+				 "femaleProPort": "30.00",
+				 "femaleTGI": "123",
+				 "insightName":"逍客"
+			  	},
+				{
+				 "manProPort": "46.00",
+				 "manTGI": "100",
+				 "femaleProPort": "54.00",
+				 "femaleTGI": "116",
+				 "insightName":"思域"
+				},
+				{
+					"manProPort": "77.00",
+					"manTGI": "222",
+					"femaleProPort": "23.00",
+					"femaleTGI": "45",
+					"insightName":"楼兰"
+				   }
+			  ],
+			  "ageDistributeVO1": {
+				"ageAxis": [
+				  "未知年龄",
+				  "18-24岁",
+				  "25-34岁",
+				  "35-44岁",
+				  "45+岁"
+				],
+				"ageList": [
+				  {
+					"cname": "轩逸",
+					"iname": "轩逸TGI",
+					"cdata": [
+					  "1.78",
+					  "25.21",
+					  "43.37",
+					  "20.67",
+					  "8.98"
+					],
+					"idata": [
+					  "29",
+					  "146",
+					  "126",
+					  "87",
+					  "47"
+					]
+				  },
+				  {
+					"cname": "天籁",
+					"iname": "天籁TGI",
+					"cdata": [
+					  "1.78",
+					  "25.21",
+					  "43.37",
+					  "20.67",
+					  "8.98"
+					],
+					"idata": [
+					  "29",
+					  "146",
+					  "126",
+					  "87",
+					  "47"
+					]
+				  },
+				  {
+					"cname": "大众",
+					"iname": "大众TGI",
+					"cdata": [
+					  "0",
+					  "23.66",
+					  "66.78",
+					  "8.85",
+					  "0.72"
+					],
+					"idata": [
+					  "0",
+					  "137",
+					  "194",
+					  "37",
+					  "3"
+					]
+				  }
+				]
+			  },
+			  "ageDistributeVO": {
+				"agexAxis": [
+				  "未知年龄",
+				  "18-24岁",
+				  "25-34岁",
+				  "35-44岁",
+				  "45+岁"
+				],
+				"ageList": [
+				  {
+					"cname": "占比1",
+					"cdata": [
+					  "0",
+					  "23.66",
+					  "66.78",
+					  "31.23",
+					  "0.72"
+					],
+					"iname": "TGI1",
+					"idata": [
+					  "0",
+					  "137",
+					  "194",
+					  "37",
+					  "3"
+					]
+				  },
+				  {
+					"cname": "占比2",
+					"cdata": [
+						"32",
+					  "16.66",
+					  "32.78",
+					  "34.85",
+					  "2.72"
+					],
+					"iname": "TGI2",
+					"idata": [
+						"23",
+					  "453",
+					  "23",
+					  "37",
+					  "8"
+					]
+				  },
+				  {
+					"cname": "占比3",
+					"cdata": [
+						"0",
+					  "54.66",
+					  "21.78",
+					  "65.85",
+					  "123.72"
+					],
+					"iname": "TGI3",
+					"idata": [
+						"0",
+					  "45",
+					  "21",
+					  "8",
+					  "123"
+					]
+				  }
+				]
+			  }
+			},
+			"regionDistributeVOList":[
+				{
+					"insightName":"逍客",
+					"cityTop10VOList": [
+						{
+							"name": "苏州市",
+							"value": "8.91",
+							"tgi": "575"
+						},
+						{
+							"name": "北京市",
+							"value": "6.27",
+							"tgi": "106"
+						},
+						{
+							"name": "上海市",
+							"value": "3.24",
+							"tgi": "126"
+						},
+						{
+							"name": "南京市",
+							"value": "2.09",
+							"tgi": "150"
+						},
+						{
+							"name": "重庆市",
+							"value": "2.05",
+							"tgi": "93"
+						},
+						{
+							"name": "广州市",
+							"value": "1.99",
+							"tgi": "87"
+						},
+						{
+							"name": "深圳市",
+							"value": "1.91",
+							"tgi": "92"
+						},
+						{
+							"name": "郑州市",
+							"value": "1.83",
+							"tgi": "126"
+						},
+						{
+							"name": "成都市",
+							"value": "1.82",
+							"tgi": "93"
+						},
+						{
+							"name": "杭州市",
+							"value": "1.76",
+							"tgi": "79"
+						}
+					],
+					"provinceDistributeVOList": [
+						{
+							"name": "江苏",
+							"value": "15.21",
+							"tgi": "1.999143195"
+						},
+						{
+							"name": "广东",
+							"value": "7.72",
+							"tgi": "0.7236864571"
+						},
+						{
+							"name": "河南",
+							"value": "6.38",
+							"tgi": "1.062047548"
+						},
+						{
+							"name": "北京",
+							"value": "6.27",
+							"tgi": "1.064456367"
+						},
+						{
+							"name": "山东",
+							"value": "5.99",
+							"tgi": "0.898232098"
+						},
+						{
+							"name": "河北",
+							"value": "4.34",
+							"tgi": "0.8752153269"
+						},
+						{
+							"name": "浙江",
+							"value": "4.28",
+							"tgi": "0.7056581366"
+						},
+						{
+							"name": "四川",
+							"value": "3.96",
+							"tgi": "0.8021796745"
+						},
+						{
+							"name": "湖南",
+							"value": "3.42",
+							"tgi": "0.9910246275"
+						},
+						{
+							"name": "安徽",
+							"value": "3.25",
+							"tgi": "0.9000194131"
+						},
+						{
+							"name": "上海",
+							"value": "3.24",
+							"tgi": "1.268476473"
+						},
+						{
+							"name": "陕西",
+							"value": "3.20",
+							"tgi": "1.153094568"
+						},
+						{
+							"name": "湖北",
+							"value": "3.09",
+							"tgi": "0.9269970704"
+						},
+						{
+							"name": "江西",
+							"value": "2.55",
+							"tgi": "1.002960086"
+						},
+						{
+							"name": "辽宁",
+							"value": "2.38",
+							"tgi": "0.7674595206"
+						},
+						{
+							"name": "山西",
+							"value": "2.34",
+							"tgi": "1.003150746"
+						},
+						{
+							"name": "云南",
+							"value": "2.21",
+							"tgi": "0.9447299919"
+						},
+						{
+							"name": "福建",
+							"value": "2.20",
+							"tgi": "0.6584887632"
+						},
+						{
+							"name": "贵州",
+							"value": "2.13",
+							"tgi": "1.179440116"
+						},
+						{
+							"name": "新疆",
+							"value": "2.08",
+							"tgi": "1.361601248"
+						},
+						{
+							"name": "广西",
+							"value": "2.05",
+							"tgi": "0.7314988189"
+						},
+						{
+							"name": "重庆",
+							"value": "2.05",
+							"tgi": "0.9351394901"
+						},
+						{
+							"name": "黑龙江",
+							"value": "1.82",
+							"tgi": "0.950819709"
+						},
+						{
+							"name": "内蒙古",
+							"value": "1.56",
+							"tgi": "1.01830326"
+						},
+						{
+							"name": "甘肃",
+							"value": "1.56",
+							"tgi": "1.217182088"
+						},
+						{
+							"name": "吉林",
+							"value": "1.48",
+							"tgi": "0.9668619918"
+						},
+						{
+							"name": "天津",
+							"value": "1.37",
+							"tgi": "1.045711396"
+						},
+						{
+							"name": "宁夏",
+							"value": "0.60",
+							"tgi": "1.138043957"
+						},
+						{
+							"name": "青海",
+							"value": "0.45",
+							"tgi": "1.401002046"
+						},
+						{
+							"name": "海南",
+							"value": "0.40",
+							"tgi": "0.9980809501"
+						},
+						{
+							"name": "西藏",
+							"value": "0.36",
+							"tgi": "2.375197717"
+						},
+						{
+							"name": "香港",
+							"value": "0.03",
+							"tgi": "0.1586135964"
+						},
+						{
+							"name": "澳门",
+							"value": "0.01",
+							"tgi": "0.3127288459"
+						}
+					],
+					"cityLevelPieChartVOList": [
+						{
+							"name": "一线城市",
+							"value": "13.33"
+						},
+						{
+							"name": "二线城市",
+							"value": "39.97"
+						},
+						{
+							"name": "三线城市",
+							"value": "17.86"
+						},
+						{
+							"name": "四线及以下城市",
+							"value": "28.32"
+						}
+					],
+					"cityVOList": [
+						{
+							"name": "苏州市",
+							"value": "8.91",
+							"provinceName": "江苏省",
+							"tgi": "575"
+						},
+						{
+							"name": "北京市",
+							"value": "6.27",
+							"provinceName": "北京市",
+							"tgi": "106"
+						},
+						{
+							"name": "上海市",
+							"value": "3.24",
+							"provinceName": "上海市",
+							"tgi": "126"
+						},
+						{
+							"name": "南京市",
+							"value": "2.09",
+							"provinceName": "江苏省",
+							"tgi": "150"
+						},
+						{
+							"name": "重庆市",
+							"value": "2.05",
+							"provinceName": "重庆市",
+							"tgi": "93"
+						},
+						{
+							"name": "广州市",
+							"value": "1.99",
+							"provinceName": "广东省",
+							"tgi": "87"
+						},
+						{
+							"name": "深圳市",
+							"value": "1.91",
+							"provinceName": "广东省",
+							"tgi": "92"
+						},
+						{
+							"name": "郑州市",
+							"value": "1.83",
+							"provinceName": "河南省",
+							"tgi": "126"
+						},
+						{
+							"name": "成都市",
+							"value": "1.82",
+							"provinceName": "四川省",
+							"tgi": "93"
+						},
+						{
+							"name": "杭州市",
+							"value": "1.76",
+							"provinceName": "浙江省",
+							"tgi": "79"
+						},
+						{
+							"name": "西安市",
+							"value": "1.66",
+							"provinceName": "陕西省",
+							"tgi": "133"
+						},
+						{
+							"name": "武汉市",
+							"value": "1.44",
+							"provinceName": "湖北省",
+							"tgi": "106"
+						},
+						{
+							"name": "天津市",
+							"value": "1.37",
+							"provinceName": "天津市",
+							"tgi": "104"
+						},
+						{
+							"name": "石家庄市",
+							"value": "1.36",
+							"provinceName": "河北省",
+							"tgi": "117"
+						},
+						{
+							"name": "长沙市",
+							"value": "1.26",
+							"provinceName": "湖南省",
+							"tgi": "133"
+						},
+						{
+							"name": "昆明市",
+							"value": "1.13",
+							"provinceName": "云南省",
+							"tgi": "137"
+						},
+						{
+							"name": "济南市",
+							"value": "1.11",
+							"provinceName": "山东省",
+							"tgi": "123"
+						},
+						{
+							"name": "南昌市",
+							"value": "1.10",
+							"provinceName": "江西省",
+							"tgi": "165"
+						},
+						{
+							"name": "合肥市",
+							"value": "1.09",
+							"provinceName": "安徽省",
+							"tgi": "125"
+						},
+						{
+							"name": "青岛市",
+							"value": "0.95",
+							"provinceName": "山东省",
+							"tgi": "98"
+						},
+						{
+							"name": "哈尔滨市",
+							"value": "0.88",
+							"provinceName": "黑龙江省",
+							"tgi": "105"
+						},
+						{
+							"name": "沈阳市",
+							"value": "0.87",
+							"provinceName": "辽宁省",
+							"tgi": "107"
+						},
+						{
+							"name": "贵阳市",
+							"value": "0.81",
+							"provinceName": "贵州省",
+							"tgi": "103"
+						},
+						{
+							"name": "长春市",
+							"value": "0.79",
+							"provinceName": "吉林省",
+							"tgi": "111"
+						},
+						{
+							"name": "福州市",
+							"value": "0.78",
+							"provinceName": "福建省",
+							"tgi": "90"
+						},
+						{
+							"name": "宁波市",
+							"value": "0.77",
+							"provinceName": "浙江省",
+							"tgi": "93"
+						},
+						{
+							"name": "南宁市",
+							"value": "0.77",
+							"provinceName": "广西壮族自治区",
+							"tgi": "108"
+						},
+						{
+							"name": "洛阳市",
+							"value": "0.75",
+							"provinceName": "河南省",
+							"tgi": "126"
+						},
+						{
+							"name": "太原市",
+							"value": "0.74",
+							"provinceName": "山西省",
+							"tgi": "129"
+						},
+						{
+							"name": "东莞市",
+							"value": "0.74",
+							"provinceName": "广东省",
+							"tgi": "65"
+						},
+						{
+							"name": "无锡市",
+							"value": "0.68",
+							"provinceName": "江苏省",
+							"tgi": "85"
+						},
+						{
+							"name": "徐州市",
+							"value": "0.62",
+							"provinceName": "江苏省",
+							"tgi": "92"
+						},
+						{
+							"name": "兰州市",
+							"value": "0.59",
+							"provinceName": "甘肃省",
+							"tgi": "135"
+						},
+						{
+							"name": "乌鲁木齐市",
+							"value": "0.56",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "114"
+						},
+						{
+							"name": "保定市",
+							"value": "0.52",
+							"provinceName": "河北省",
+							"tgi": "78"
+						},
+						{
+							"name": "潍坊市",
+							"value": "0.50",
+							"provinceName": "山东省",
+							"tgi": "96"
+						},
+						{
+							"name": "佛山市",
+							"value": "0.50",
+							"provinceName": "广东省",
+							"tgi": "64"
+						},
+						{
+							"name": "大连市",
+							"value": "0.49",
+							"provinceName": "辽宁省",
+							"tgi": "82"
+						},
+						{
+							"name": "厦门市",
+							"value": "0.48",
+							"provinceName": "福建省",
+							"tgi": "83"
+						},
+						{
+							"name": "常州市",
+							"value": "0.46",
+							"provinceName": "江苏省",
+							"tgi": "106"
+						},
+						{
+							"name": "南阳市",
+							"value": "0.45",
+							"provinceName": "河南省",
+							"tgi": "96"
+						},
+						{
+							"name": "南通市",
+							"value": "0.45",
+							"provinceName": "江苏省",
+							"tgi": "88"
+						},
+						{
+							"name": "唐山市",
+							"value": "0.45",
+							"provinceName": "河北省",
+							"tgi": "86"
+						},
+						{
+							"name": "呼和浩特市",
+							"value": "0.44",
+							"provinceName": "内蒙古自治区",
+							"tgi": "122"
+						},
+						{
+							"name": "临沂市",
+							"value": "0.42",
+							"provinceName": "山东省",
+							"tgi": "66"
+						},
+						{
+							"name": "邯郸市",
+							"value": "0.42",
+							"provinceName": "河北省",
+							"tgi": "78"
+						},
+						{
+							"name": "烟台市",
+							"value": "0.40",
+							"provinceName": "山东省",
+							"tgi": "84"
+						},
+						{
+							"name": "盐城市",
+							"value": "0.38",
+							"provinceName": "江苏省",
+							"tgi": "84"
+						},
+						{
+							"name": "咸阳市",
+							"value": "0.38",
+							"provinceName": "陕西省",
+							"tgi": "135"
+						},
+						{
+							"name": "泉州市",
+							"value": "0.37",
+							"provinceName": "福建省",
+							"tgi": "53"
+						},
+						{
+							"name": "温州市",
+							"value": "0.37",
+							"provinceName": "浙江省",
+							"tgi": "56"
+						},
+						{
+							"name": "银川市",
+							"value": "0.36",
+							"provinceName": "宁夏回族自治区",
+							"tgi": "126"
+						},
+						{
+							"name": "周口市",
+							"value": "0.35",
+							"provinceName": "河南省",
+							"tgi": "97"
+						},
+						{
+							"name": "衡阳市",
+							"value": "0.35",
+							"provinceName": "湖南省",
+							"tgi": "110"
+						},
+						{
+							"name": "廊坊市",
+							"value": "0.34",
+							"provinceName": "河北省",
+							"tgi": "83"
+						},
+						{
+							"name": "赣州市",
+							"value": "0.34",
+							"provinceName": "江西省",
+							"tgi": "77"
+						},
+						{
+							"name": "遵义市",
+							"value": "0.34",
+							"provinceName": "贵州省",
+							"tgi": "95"
+						},
+						{
+							"name": "商丘市",
+							"value": "0.33",
+							"provinceName": "河南省",
+							"tgi": "99"
+						},
+						{
+							"name": "惠州市",
+							"value": "0.33",
+							"provinceName": "广东省",
+							"tgi": "68"
+						},
+						{
+							"name": "扬州市",
+							"value": "0.33",
+							"provinceName": "江苏省",
+							"tgi": "105"
+						},
+						{
+							"name": "新乡市",
+							"value": "0.33",
+							"provinceName": "河南省",
+							"tgi": "108"
+						},
+						{
+							"name": "菏泽市",
+							"value": "0.32",
+							"provinceName": "山东省",
+							"tgi": "72"
+						},
+						{
+							"name": "汕头市",
+							"value": "0.32",
+							"provinceName": "广东省",
+							"tgi": "58"
+						},
+						{
+							"name": "榆林市",
+							"value": "0.31",
+							"provinceName": "陕西省",
+							"tgi": "124"
+						},
+						{
+							"name": "驻马店市",
+							"value": "0.31",
+							"provinceName": "河南省",
+							"tgi": "74"
+						},
+						{
+							"name": "沧州市",
+							"value": "0.31",
+							"provinceName": "河北省",
+							"tgi": "67"
+						},
+						{
+							"name": "济宁市",
+							"value": "0.30",
+							"provinceName": "山东省",
+							"tgi": "69"
+						},
+						{
+							"name": "泰安市",
+							"value": "0.30",
+							"provinceName": "山东省",
+							"tgi": "109"
+						},
+						{
+							"name": "金华市",
+							"value": "0.30",
+							"provinceName": "浙江省",
+							"tgi": "58"
+						},
+						{
+							"name": "喀什地区",
+							"value": "0.29",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "189"
+						},
+						{
+							"name": "嘉兴市",
+							"value": "0.28",
+							"provinceName": "浙江省",
+							"tgi": "68"
+						},
+						{
+							"name": "泰州市",
+							"value": "0.28",
+							"provinceName": "江苏省",
+							"tgi": "91"
+						},
+						{
+							"name": "连云港市",
+							"value": "0.27",
+							"provinceName": "江苏省",
+							"tgi": "80"
+						},
+						{
+							"name": "安阳市",
+							"value": "0.27",
+							"provinceName": "河南省",
+							"tgi": "94"
+						},
+						{
+							"name": "淮安市",
+							"value": "0.27",
+							"provinceName": "江苏省",
+							"tgi": "87"
+						},
+						{
+							"name": "邢台市",
+							"value": "0.27",
+							"provinceName": "河北省",
+							"tgi": "69"
+						},
+						{
+							"name": "开封市",
+							"value": "0.26",
+							"provinceName": "河南省",
+							"tgi": "103"
+						},
+						{
+							"name": "株洲市",
+							"value": "0.26",
+							"provinceName": "湖南省",
+							"tgi": "105"
+						},
+						{
+							"name": "平顶山市",
+							"value": "0.25",
+							"provinceName": "河南省",
+							"tgi": "105"
+						},
+						{
+							"name": "信阳市",
+							"value": "0.25",
+							"provinceName": "河南省",
+							"tgi": "96"
+						},
+						{
+							"name": "淄博市",
+							"value": "0.25",
+							"provinceName": "山东省",
+							"tgi": "86"
+						},
+						{
+							"name": "芜湖市",
+							"value": "0.25",
+							"provinceName": "安徽省",
+							"tgi": "136"
+						},
+						{
+							"name": "黔南布依族苗族自治州",
+							"value": "0.24",
+							"provinceName": "贵州省",
+							"tgi": "111"
+						},
+						{
+							"name": "镇江市",
+							"value": "0.24",
+							"provinceName": "江苏省",
+							"tgi": "111"
+						},
+						{
+							"name": "聊城市",
+							"value": "0.24",
+							"provinceName": "山东省",
+							"tgi": "74"
+						},
+						{
+							"name": "晋中市",
+							"value": "0.24",
+							"provinceName": "山西省",
+							"tgi": "116"
+						},
+						{
+							"name": "许昌市",
+							"value": "0.24",
+							"provinceName": "河南省",
+							"tgi": "83"
+						},
+						{
+							"name": "德州市",
+							"value": "0.24",
+							"provinceName": "山东省",
+							"tgi": "80"
+						},
+						{
+							"name": "中山市",
+							"value": "0.24",
+							"provinceName": "广东省",
+							"tgi": "56"
+						},
+						{
+							"name": "海口市",
+							"value": "0.23",
+							"provinceName": "海南省",
+							"tgi": "80"
+						},
+						{
+							"name": "宿迁市",
+							"value": "0.23",
+							"provinceName": "江苏省",
+							"tgi": "66"
+						},
+						{
+							"name": "台州市",
+							"value": "0.23",
+							"provinceName": "浙江省",
+							"tgi": "53"
+						},
+						{
+							"name": "珠海市",
+							"value": "0.23",
+							"provinceName": "广东省",
+							"tgi": "100"
+						},
+						{
+							"name": "湛江市",
+							"value": "0.23",
+							"provinceName": "广东省",
+							"tgi": "53"
+						},
+						{
+							"name": "临汾市",
+							"value": "0.22",
+							"provinceName": "山西省",
+							"tgi": "79"
+						},
+						{
+							"name": "渭南市",
+							"value": "0.22",
+							"provinceName": "陕西省",
+							"tgi": "81"
+						},
+						{
+							"name": "阜阳市",
+							"value": "0.22",
+							"provinceName": "安徽省",
+							"tgi": "69"
+						},
+						{
+							"name": "焦作市",
+							"value": "0.22",
+							"provinceName": "河南省",
+							"tgi": "99"
+						},
+						{
+							"name": "六安市",
+							"value": "0.21",
+							"provinceName": "安徽省",
+							"tgi": "78"
+						},
+						{
+							"name": "绍兴市",
+							"value": "0.21",
+							"provinceName": "浙江省",
+							"tgi": "67"
+						},
+						{
+							"name": "张家口市",
+							"value": "0.21",
+							"provinceName": "河北省",
+							"tgi": "94"
+						},
+						{
+							"name": "九江市",
+							"value": "0.21",
+							"provinceName": "江西省",
+							"tgi": "96"
+						},
+						{
+							"name": "西宁市",
+							"value": "0.21",
+							"provinceName": "青海省",
+							"tgi": "106"
+						},
+						{
+							"name": "吉林市",
+							"value": "0.21",
+							"provinceName": "吉林省",
+							"tgi": "96"
+						},
+						{
+							"name": "长治市",
+							"value": "0.21",
+							"provinceName": "山西省",
+							"tgi": "89"
+						},
+						{
+							"name": "绵阳市",
+							"value": "0.20",
+							"provinceName": "四川省",
+							"tgi": "69"
+						},
+						{
+							"name": "黄冈市",
+							"value": "0.20",
+							"provinceName": "湖北省",
+							"tgi": "77"
+						},
+						{
+							"name": "岳阳市",
+							"value": "0.20",
+							"provinceName": "湖南省",
+							"tgi": "71"
+						},
+						{
+							"name": "运城市",
+							"value": "0.20",
+							"provinceName": "山西省",
+							"tgi": "75"
+						},
+						{
+							"name": "滨州市",
+							"value": "0.20",
+							"provinceName": "山东省",
+							"tgi": "90"
+						},
+						{
+							"name": "江门市",
+							"value": "0.20",
+							"provinceName": "广东省",
+							"tgi": "49"
+						},
+						{
+							"name": "桂林市",
+							"value": "0.20",
+							"provinceName": "广西壮族自治区",
+							"tgi": "74"
+						},
+						{
+							"name": "上饶市",
+							"value": "0.19",
+							"provinceName": "江西省",
+							"tgi": "74"
+						},
+						{
+							"name": "亳州市",
+							"value": "0.19",
+							"provinceName": "安徽省",
+							"tgi": "72"
+						},
+						{
+							"name": "威海市",
+							"value": "0.19",
+							"provinceName": "山东省",
+							"tgi": "78"
+						},
+						{
+							"name": "濮阳市",
+							"value": "0.19",
+							"provinceName": "河南省",
+							"tgi": "88"
+						},
+						{
+							"name": "襄阳市",
+							"value": "0.19",
+							"provinceName": "湖北省",
+							"tgi": "72"
+						},
+						{
+							"name": "鄂尔多斯市",
+							"value": "0.19",
+							"provinceName": "内蒙古自治区",
+							"tgi": "125"
+						},
+						{
+							"name": "淮南市",
+							"value": "0.19",
+							"provinceName": "安徽省",
+							"tgi": "94"
+						},
+						{
+							"name": "包头市",
+							"value": "0.19",
+							"provinceName": "内蒙古自治区",
+							"tgi": "110"
+						},
+						{
+							"name": "邵阳市",
+							"value": "0.18",
+							"provinceName": "湖南省",
+							"tgi": "74"
+						},
+						{
+							"name": "宜宾市",
+							"value": "0.18",
+							"provinceName": "四川省",
+							"tgi": "74"
+						},
+						{
+							"name": "湘潭市",
+							"value": "0.18",
+							"provinceName": "湖南省",
+							"tgi": "130"
+						},
+						{
+							"name": "日照市",
+							"value": "0.18",
+							"provinceName": "山东省",
+							"tgi": "107"
+						},
+						{
+							"name": "滁州市",
+							"value": "0.18",
+							"provinceName": "安徽省",
+							"tgi": "96"
+						},
+						{
+							"name": "曲靖市",
+							"value": "0.18",
+							"provinceName": "云南省",
+							"tgi": "85"
+						},
+						{
+							"name": "吕梁市",
+							"value": "0.18",
+							"provinceName": "山西省",
+							"tgi": "96"
+						},
+						{
+							"name": "秦皇岛市",
+							"value": "0.18",
+							"provinceName": "河北省",
+							"tgi": "91"
+						},
+						{
+							"name": "宜春市",
+							"value": "0.17",
+							"provinceName": "江西省",
+							"tgi": "67"
+						},
+						{
+							"name": "荆州市",
+							"value": "0.17",
+							"provinceName": "湖北省",
+							"tgi": "83"
+						},
+						{
+							"name": "齐齐哈尔市",
+							"value": "0.17",
+							"provinceName": "黑龙江省",
+							"tgi": "89"
+						},
+						{
+							"name": "常德市",
+							"value": "0.17",
+							"provinceName": "湖南省",
+							"tgi": "77"
+						},
+						{
+							"name": "茂名市",
+							"value": "0.17",
+							"provinceName": "广东省",
+							"tgi": "62"
+						},
+						{
+							"name": "伊犁哈萨克自治州",
+							"value": "0.16",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "104"
+						},
+						{
+							"name": "昌吉回族自治州",
+							"value": "0.16",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "127"
+						},
+						{
+							"name": "宜昌市",
+							"value": "0.16",
+							"provinceName": "湖北省",
+							"tgi": "98"
+						},
+						{
+							"name": "泸州市",
+							"value": "0.16",
+							"provinceName": "四川省",
+							"tgi": "83"
+						},
+						{
+							"name": "衡水市",
+							"value": "0.16",
+							"provinceName": "河北省",
+							"tgi": "67"
+						},
+						{
+							"name": "大同市",
+							"value": "0.16",
+							"provinceName": "山西省",
+							"tgi": "95"
+						},
+						{
+							"name": "阿克苏地区",
+							"value": "0.16",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "121"
+						},
+						{
+							"name": "东营市",
+							"value": "0.16",
+							"provinceName": "山东省",
+							"tgi": "101"
+						},
+						{
+							"name": "柳州市",
+							"value": "0.16",
+							"provinceName": "广西壮族自治区",
+							"tgi": "69"
+						},
+						{
+							"name": "赤峰市",
+							"value": "0.16",
+							"provinceName": "内蒙古自治区",
+							"tgi": "73"
+						},
+						{
+							"name": "安庆市",
+							"value": "0.16",
+							"provinceName": "安徽省",
+							"tgi": "80"
+						},
+						{
+							"name": "达州市",
+							"value": "0.15",
+							"provinceName": "四川省",
+							"tgi": "67"
+						},
+						{
+							"name": "汉中市",
+							"value": "0.15",
+							"provinceName": "陕西省",
+							"tgi": "93"
+						},
+						{
+							"name": "拉萨市",
+							"value": "0.15",
+							"provinceName": "西藏自治区",
+							"tgi": "158"
+						},
+						{
+							"name": "湖州市",
+							"value": "0.15",
+							"provinceName": "浙江省",
+							"tgi": "56"
+						},
+						{
+							"name": "漳州市",
+							"value": "0.15",
+							"provinceName": "福建省",
+							"tgi": "55"
+						},
+						{
+							"name": "巴音郭楞蒙古自治州",
+							"value": "0.15",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "118"
+						},
+						{
+							"name": "和田地区",
+							"value": "0.15",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "180"
+						},
+						{
+							"name": "揭阳市",
+							"value": "0.15",
+							"provinceName": "广东省",
+							"tgi": "48"
+						},
+						{
+							"name": "南充市",
+							"value": "0.15",
+							"provinceName": "四川省",
+							"tgi": "67"
+						},
+						{
+							"name": "宿州市",
+							"value": "0.15",
+							"provinceName": "安徽省",
+							"tgi": "65"
+						},
+						{
+							"name": "铁岭市",
+							"value": "0.14",
+							"provinceName": "辽宁省",
+							"tgi": "76"
+						},
+						{
+							"name": "宝鸡市",
+							"value": "0.14",
+							"provinceName": "陕西省",
+							"tgi": "88"
+						},
+						{
+							"name": "枣庄市",
+							"value": "0.14",
+							"provinceName": "山东省",
+							"tgi": "68"
+						},
+						{
+							"name": "眉山市",
+							"value": "0.14",
+							"provinceName": "四川省",
+							"tgi": "85"
+						},
+						{
+							"name": "百色市",
+							"value": "0.14",
+							"provinceName": "广西壮族自治区",
+							"tgi": "73"
+						},
+						{
+							"name": "鄂州市",
+							"value": "0.14",
+							"provinceName": "湖北省",
+							"tgi": "119"
+						},
+						{
+							"name": "蚌埠市",
+							"value": "0.14",
+							"provinceName": "安徽省",
+							"tgi": "67"
+						},
+						{
+							"name": "通辽市",
+							"value": "0.14",
+							"provinceName": "内蒙古自治区",
+							"tgi": "88"
+						},
+						{
+							"name": "凉山彝族自治州",
+							"value": "0.14",
+							"provinceName": "四川省",
+							"tgi": "91"
+						},
+						{
+							"name": "永州市",
+							"value": "0.14",
+							"provinceName": "湖南省",
+							"tgi": "76"
+						},
+						{
+							"name": "清远市",
+							"value": "0.14",
+							"provinceName": "广东省",
+							"tgi": "66"
+						},
+						{
+							"name": "郴州市",
+							"value": "0.13",
+							"provinceName": "湖南省",
+							"tgi": "69"
+						},
+						{
+							"name": "娄底市",
+							"value": "0.13",
+							"provinceName": "湖南省",
+							"tgi": "84"
+						},
+						{
+							"name": "德阳市",
+							"value": "0.13",
+							"provinceName": "四川省",
+							"tgi": "63"
+						},
+						{
+							"name": "抚州市",
+							"value": "0.13",
+							"provinceName": "江西省",
+							"tgi": "82"
+						},
+						{
+							"name": "佳木斯市",
+							"value": "0.13",
+							"provinceName": "黑龙江省",
+							"tgi": "115"
+						},
+						{
+							"name": "吉安市",
+							"value": "0.13",
+							"provinceName": "江西省",
+							"tgi": "72"
+						},
+						{
+							"name": "大庆市",
+							"value": "0.13",
+							"provinceName": "黑龙江省",
+							"tgi": "84"
+						},
+						{
+							"name": "鞍山市",
+							"value": "0.13",
+							"provinceName": "辽宁省",
+							"tgi": "53"
+						},
+						{
+							"name": "宣城市",
+							"value": "0.13",
+							"provinceName": "安徽省",
+							"tgi": "72"
+						},
+						{
+							"name": "漯河市",
+							"value": "0.13",
+							"provinceName": "河南省",
+							"tgi": "105"
+						},
+						{
+							"name": "承德市",
+							"value": "0.13",
+							"provinceName": "河北省",
+							"tgi": "71"
+						},
+						{
+							"name": "延安市",
+							"value": "0.13",
+							"provinceName": "陕西省",
+							"tgi": "106"
+						},
+						{
+							"name": "肇庆市",
+							"value": "0.12",
+							"provinceName": "广东省",
+							"tgi": "59"
+						},
+						{
+							"name": "绥化市",
+							"value": "0.12",
+							"provinceName": "黑龙江省",
+							"tgi": "75"
+						},
+						{
+							"name": "恩施土家族苗族自治州",
+							"value": "0.12",
+							"provinceName": "湖北省",
+							"tgi": "83"
+						},
+						{
+							"name": "忻州市",
+							"value": "0.12",
+							"provinceName": "山西省",
+							"tgi": "90"
+						},
+						{
+							"name": "怀化市",
+							"value": "0.12",
+							"provinceName": "湖南省",
+							"tgi": "68"
+						},
+						{
+							"name": "昭通市",
+							"value": "0.12",
+							"provinceName": "云南省",
+							"tgi": "78"
+						},
+						{
+							"name": "孝感市",
+							"value": "0.12",
+							"provinceName": "湖北省",
+							"tgi": "63"
+						},
+						{
+							"name": "天水市",
+							"value": "0.12",
+							"provinceName": "甘肃省",
+							"tgi": "114"
+						},
+						{
+							"name": "呼伦贝尔市",
+							"value": "0.12",
+							"provinceName": "内蒙古自治区",
+							"tgi": "86"
+						},
+						{
+							"name": "十堰市",
+							"value": "0.11",
+							"provinceName": "湖北省",
+							"tgi": "84"
+						},
+						{
+							"name": "晋城市",
+							"value": "0.11",
+							"provinceName": "山西省",
+							"tgi": "92"
+						},
+						{
+							"name": "乐山市",
+							"value": "0.11",
+							"provinceName": "四川省",
+							"tgi": "60"
+						},
+						{
+							"name": "荆门市",
+							"value": "0.11",
+							"provinceName": "湖北省",
+							"tgi": "71"
+						},
+						{
+							"name": "河池市",
+							"value": "0.11",
+							"provinceName": "广西壮族自治区",
+							"tgi": "56"
+						},
+						{
+							"name": "四平市",
+							"value": "0.11",
+							"provinceName": "吉林省",
+							"tgi": "102"
+						},
+						{
+							"name": "黔东南苗族侗族自治州",
+							"value": "0.11",
+							"provinceName": "贵州省",
+							"tgi": "87"
+						},
+						{
+							"name": "大理白族自治州",
+							"value": "0.11",
+							"provinceName": "云南省",
+							"tgi": "70"
+						},
+						{
+							"name": "黔西南布衣族苗族自治州",
+							"value": "0.11",
+							"provinceName": "贵州省",
+							"tgi": "96"
+						},
+						{
+							"name": "马鞍山市",
+							"value": "0.11",
+							"provinceName": "安徽省",
+							"tgi": "87"
+						},
+						{
+							"name": "锦州市",
+							"value": "0.11",
+							"provinceName": "辽宁省",
+							"tgi": "61"
+						},
+						{
+							"name": "红河哈尼族彝族自治州",
+							"value": "0.10",
+							"provinceName": "云南省",
+							"tgi": "63"
+						},
+						{
+							"name": "益阳市",
+							"value": "0.10",
+							"provinceName": "湖南省",
+							"tgi": "66"
+						},
+						{
+							"name": "玉林市",
+							"value": "0.10",
+							"provinceName": "广西壮族自治区",
+							"tgi": "42"
+						},
+						{
+							"name": "钦州市",
+							"value": "0.10",
+							"provinceName": "广西壮族自治区",
+							"tgi": "56"
+						},
+						{
+							"name": "六盘水市",
+							"value": "0.10",
+							"provinceName": "贵州省",
+							"tgi": "81"
+						},
+						{
+							"name": "庆阳市",
+							"value": "0.10",
+							"provinceName": "甘肃省",
+							"tgi": "120"
+						},
+						{
+							"name": "三门峡市",
+							"value": "0.10",
+							"provinceName": "河南省",
+							"tgi": "75"
+						},
+						{
+							"name": "定西市",
+							"value": "0.10",
+							"provinceName": "甘肃省",
+							"tgi": "118"
+						},
+						{
+							"name": "黄石市",
+							"value": "0.10",
+							"provinceName": "湖北省",
+							"tgi": "71"
+						},
+						{
+							"name": "广安市",
+							"value": "0.10",
+							"provinceName": "四川省",
+							"tgi": "66"
+						},
+						{
+							"name": "安顺市",
+							"value": "0.10",
+							"provinceName": "贵州省",
+							"tgi": "104"
+						},
+						{
+							"name": "宁德市",
+							"value": "0.10",
+							"provinceName": "福建省",
+							"tgi": "40"
+						},
+						{
+							"name": "牡丹江市",
+							"value": "0.09",
+							"provinceName": "黑龙江省",
+							"tgi": "84"
+						},
+						{
+							"name": "崇左市",
+							"value": "0.09",
+							"provinceName": "广西壮族自治区",
+							"tgi": "98"
+						},
+						{
+							"name": "安康市",
+							"value": "0.09",
+							"provinceName": "陕西省",
+							"tgi": "82"
+						},
+						{
+							"name": "玉溪市",
+							"value": "0.09",
+							"provinceName": "云南省",
+							"tgi": "66"
+						},
+						{
+							"name": "景德镇市",
+							"value": "0.09",
+							"provinceName": "江西省",
+							"tgi": "75"
+						},
+						{
+							"name": "酒泉市",
+							"value": "0.09",
+							"provinceName": "甘肃省",
+							"tgi": "143"
+						},
+						{
+							"name": "湘西土家族苗族自治州",
+							"value": "0.09",
+							"provinceName": "湖南省",
+							"tgi": "99"
+						},
+						{
+							"name": "莆田市",
+							"value": "0.09",
+							"provinceName": "福建省",
+							"tgi": "43"
+						},
+						{
+							"name": "咸宁市",
+							"value": "0.09",
+							"provinceName": "湖北省",
+							"tgi": "70"
+						},
+						{
+							"name": "武威市",
+							"value": "0.09",
+							"provinceName": "甘肃省",
+							"tgi": "115"
+						},
+						{
+							"name": "南平市",
+							"value": "0.09",
+							"provinceName": "福建省",
+							"tgi": "45"
+						},
+						{
+							"name": "北海市",
+							"value": "0.09",
+							"provinceName": "广西壮族自治区",
+							"tgi": "68"
+						},
+						{
+							"name": "抚顺市",
+							"value": "0.09",
+							"provinceName": "辽宁省",
+							"tgi": "62"
+						},
+						{
+							"name": "张家界市",
+							"value": "0.09",
+							"provinceName": "湖南省",
+							"tgi": "84"
+						},
+						{
+							"name": "梅州市",
+							"value": "0.09",
+							"provinceName": "广东省",
+							"tgi": "46"
+						},
+						{
+							"name": "鹤壁市",
+							"value": "0.09",
+							"provinceName": "河南省",
+							"tgi": "107"
+						},
+						{
+							"name": "白银市",
+							"value": "0.09",
+							"provinceName": "甘肃省",
+							"tgi": "117"
+						},
+						{
+							"name": "资阳市",
+							"value": "0.09",
+							"provinceName": "四川省",
+							"tgi": "70"
+						},
+						{
+							"name": "贵港市",
+							"value": "0.08",
+							"provinceName": "广西壮族自治区",
+							"tgi": "52"
+						},
+						{
+							"name": "内江市",
+							"value": "0.08",
+							"provinceName": "四川省",
+							"tgi": "60"
+						},
+						{
+							"name": "松原市",
+							"value": "0.08",
+							"provinceName": "吉林省",
+							"tgi": "84"
+						},
+						{
+							"name": "朔州市",
+							"value": "0.08",
+							"provinceName": "山西省",
+							"tgi": "109"
+						},
+						{
+							"name": "巴中市",
+							"value": "0.08",
+							"provinceName": "四川省",
+							"tgi": "81"
+						},
+						{
+							"name": "淮北市",
+							"value": "0.08",
+							"provinceName": "安徽省",
+							"tgi": "61"
+						},
+						{
+							"name": "葫芦岛市",
+							"value": "0.08",
+							"provinceName": "辽宁省",
+							"tgi": "56"
+						},
+						{
+							"name": "延边朝鲜族自治州",
+							"value": "0.08",
+							"provinceName": "吉林省",
+							"tgi": "89"
+						},
+						{
+							"name": "平凉市",
+							"value": "0.08",
+							"provinceName": "甘肃省",
+							"tgi": "98"
+						},
+						{
+							"name": "乌兰察布市",
+							"value": "0.08",
+							"provinceName": "内蒙古自治区",
+							"tgi": "96"
+						},
+						{
+							"name": "三亚市",
+							"value": "0.08",
+							"provinceName": "海南省",
+							"tgi": "70"
+						},
+						{
+							"name": "莱芜市",
+							"value": "0.08",
+							"provinceName": "山东省",
+							"tgi": "73"
+						},
+						{
+							"name": "朝阳市",
+							"value": "0.08",
+							"provinceName": "辽宁省",
+							"tgi": "54"
+						},
+						{
+							"name": "梧州市",
+							"value": "0.08",
+							"provinceName": "广西壮族自治区",
+							"tgi": "46"
+						},
+						{
+							"name": "商洛市",
+							"value": "0.08",
+							"provinceName": "陕西省",
+							"tgi": "61"
+						},
+						{
+							"name": "衢州市",
+							"value": "0.08",
+							"provinceName": "浙江省",
+							"tgi": "52"
+						},
+						{
+							"name": "萍乡市",
+							"value": "0.08",
+							"provinceName": "江西省",
+							"tgi": "73"
+						},
+						{
+							"name": "陇南市",
+							"value": "0.08",
+							"provinceName": "甘肃省",
+							"tgi": "102"
+						},
+						{
+							"name": "塔城地区",
+							"value": "0.08",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "111"
+						},
+						{
+							"name": "韶关市",
+							"value": "0.08",
+							"provinceName": "广东省",
+							"tgi": "56"
+						},
+						{
+							"name": "吴忠市",
+							"value": "0.08",
+							"provinceName": "宁夏回族自治区",
+							"tgi": "96"
+						},
+						{
+							"name": "楚雄彝族自治州",
+							"value": "0.08",
+							"provinceName": "云南省",
+							"tgi": "80"
+						},
+						{
+							"name": "三明市",
+							"value": "0.07",
+							"provinceName": "福建省",
+							"tgi": "44"
+						},
+						{
+							"name": "龙岩市",
+							"value": "0.07",
+							"provinceName": "福建省",
+							"tgi": "50"
+						},
+						{
+							"name": "营口市",
+							"value": "0.07",
+							"provinceName": "辽宁省",
+							"tgi": "49"
+						},
+						{
+							"name": "遂宁市",
+							"value": "0.07",
+							"provinceName": "四川省",
+							"tgi": "62"
+						},
+						{
+							"name": "自贡市",
+							"value": "0.07",
+							"provinceName": "四川省",
+							"tgi": "54"
+						},
+						{
+							"name": "阿勒泰地区",
+							"value": "0.07",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "131"
+						},
+						{
+							"name": "盘锦市",
+							"value": "0.07",
+							"provinceName": "辽宁省",
+							"tgi": "65"
+						},
+						{
+							"name": "河源市",
+							"value": "0.07",
+							"provinceName": "广东省",
+							"tgi": "55"
+						},
+						{
+							"name": "文山壮族苗族自治州",
+							"value": "0.07",
+							"provinceName": "云南省",
+							"tgi": "60"
+						},
+						{
+							"name": "丽水市",
+							"value": "0.07",
+							"provinceName": "浙江省",
+							"tgi": "35"
+						},
+						{
+							"name": "广元市",
+							"value": "0.07",
+							"provinceName": "四川省",
+							"tgi": "67"
+						},
+						{
+							"name": "张掖市",
+							"value": "0.07",
+							"provinceName": "甘肃省",
+							"tgi": "114"
+						},
+						{
+							"name": "甘孜藏族自治州",
+							"value": "0.07",
+							"provinceName": "四川省",
+							"tgi": "120"
+						},
+						{
+							"name": "巴彦淖尔市",
+							"value": "0.07",
+							"provinceName": "内蒙古自治区",
+							"tgi": "83"
+						},
+						{
+							"name": "丹东市",
+							"value": "0.07",
+							"provinceName": "辽宁省",
+							"tgi": "60"
+						},
+						{
+							"name": "本溪市",
+							"value": "0.07",
+							"provinceName": "辽宁省",
+							"tgi": "63"
+						},
+						{
+							"name": "通化市",
+							"value": "0.07",
+							"provinceName": "吉林省",
+							"tgi": "44"
+						},
+						{
+							"name": "阳泉市",
+							"value": "0.07",
+							"provinceName": "山西省",
+							"tgi": "79"
+						},
+						{
+							"name": "汕尾市",
+							"value": "0.06",
+							"provinceName": "广东省",
+							"tgi": "48"
+						},
+						{
+							"name": "舟山市",
+							"value": "0.06",
+							"provinceName": "浙江省",
+							"tgi": "64"
+						},
+						{
+							"name": "临夏回族自治州",
+							"value": "0.06",
+							"provinceName": "甘肃省",
+							"tgi": "90"
+						},
+						{
+							"name": "中卫市",
+							"value": "0.06",
+							"provinceName": "宁夏回族自治区",
+							"tgi": "112"
+						},
+						{
+							"name": "白城市",
+							"value": "0.06",
+							"provinceName": "吉林省",
+							"tgi": "92"
+						},
+						{
+							"name": "新余市",
+							"value": "0.06",
+							"provinceName": "江西省",
+							"tgi": "103"
+						},
+						{
+							"name": "普洱市",
+							"value": "0.06",
+							"provinceName": "云南省",
+							"tgi": "70"
+						},
+						{
+							"name": "鸡西市",
+							"value": "0.06",
+							"provinceName": "黑龙江省",
+							"tgi": "84"
+						},
+						{
+							"name": "阳江市",
+							"value": "0.06",
+							"provinceName": "广东省",
+							"tgi": "48"
+						},
+						{
+							"name": "辽阳市",
+							"value": "0.06",
+							"provinceName": "辽宁省",
+							"tgi": "51"
+						},
+						{
+							"name": "铜陵市",
+							"value": "0.06",
+							"provinceName": "安徽省",
+							"tgi": "70"
+						},
+						{
+							"name": "兴安盟",
+							"value": "0.06",
+							"provinceName": "内蒙古自治区",
+							"tgi": "76"
+						},
+						{
+							"name": "哈密地区",
+							"value": "0.06",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "122"
+						},
+						{
+							"name": "黑河市",
+							"value": "0.06",
+							"provinceName": "黑龙江省",
+							"tgi": "85"
+						},
+						{
+							"name": "云浮市",
+							"value": "0.06",
+							"provinceName": "广东省",
+							"tgi": "46"
+						},
+						{
+							"name": "池州市",
+							"value": "0.06",
+							"provinceName": "安徽省",
+							"tgi": "62"
+						},
+						{
+							"name": "锡林郭勒盟",
+							"value": "0.06",
+							"provinceName": "内蒙古自治区",
+							"tgi": "96"
+						},
+						{
+							"name": "阜新市",
+							"value": "0.05",
+							"provinceName": "辽宁省",
+							"tgi": "66"
+						},
+						{
+							"name": "保山市",
+							"value": "0.05",
+							"provinceName": "云南省",
+							"tgi": "63"
+						},
+						{
+							"name": "潮州市",
+							"value": "0.05",
+							"provinceName": "广东省",
+							"tgi": "43"
+						},
+						{
+							"name": "克孜勒苏柯尔克孜自治州",
+							"value": "0.05",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "200"
+						},
+						{
+							"name": "石嘴山市",
+							"value": "0.05",
+							"provinceName": "宁夏回族自治区",
+							"tgi": "92"
+						},
+						{
+							"name": "随州市",
+							"value": "0.05",
+							"provinceName": "湖北省",
+							"tgi": "59"
+						},
+						{
+							"name": "雅安市",
+							"value": "0.05",
+							"provinceName": "四川省",
+							"tgi": "59"
+						},
+						{
+							"name": "丽江市",
+							"value": "0.05",
+							"provinceName": "云南省",
+							"tgi": "96"
+						},
+						{
+							"name": "黄山市",
+							"value": "0.05",
+							"provinceName": "安徽省",
+							"tgi": "49"
+						},
+						{
+							"name": "固原市",
+							"value": "0.05",
+							"provinceName": "宁夏回族自治区",
+							"tgi": "92"
+						},
+						{
+							"name": "临沧市",
+							"value": "0.05",
+							"provinceName": "云南省",
+							"tgi": "56"
+						},
+						{
+							"name": "贺州市",
+							"value": "0.05",
+							"provinceName": "广西壮族自治区",
+							"tgi": "52"
+						},
+						{
+							"name": "乌海市",
+							"value": "0.05",
+							"provinceName": "内蒙古自治区",
+							"tgi": "128"
+						},
+						{
+							"name": "白山市",
+							"value": "0.05",
+							"provinceName": "吉林省",
+							"tgi": "83"
+						},
+						{
+							"name": "双鸭山市",
+							"value": "0.05",
+							"provinceName": "黑龙江省",
+							"tgi": "79"
+						},
+						{
+							"name": "攀枝花市",
+							"value": "0.05",
+							"provinceName": "四川省",
+							"tgi": "72"
+						},
+						{
+							"name": "海西蒙古族藏族自治州",
+							"value": "0.04",
+							"provinceName": "青海省",
+							"tgi": "133"
+						},
+						{
+							"name": "西双版纳傣族自治州",
+							"value": "0.04",
+							"provinceName": "云南省",
+							"tgi": "63"
+						},
+						{
+							"name": "克拉玛依市",
+							"value": "0.04",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "125"
+						},
+						{
+							"name": "山南地区",
+							"value": "0.04",
+							"provinceName": "西藏自治区",
+							"tgi": "133"
+						},
+						{
+							"name": "来宾市",
+							"value": "0.04",
+							"provinceName": "广西壮族自治区",
+							"tgi": "49"
+						},
+						{
+							"name": "鹰潭市",
+							"value": "0.04",
+							"provinceName": "江西省",
+							"tgi": "54"
+						},
+						{
+							"name": "防城港市",
+							"value": "0.04",
+							"provinceName": "广西壮族自治区",
+							"tgi": "59"
+						},
+						{
+							"name": "伊春市",
+							"value": "0.04",
+							"provinceName": "黑龙江省",
+							"tgi": "80"
+						},
+						{
+							"name": "海南藏族自治州",
+							"value": "0.04",
+							"provinceName": "青海省",
+							"tgi": "112"
+						},
+						{
+							"name": "阿坝藏族羌族自治州",
+							"value": "0.04",
+							"provinceName": "四川省",
+							"tgi": "99"
+						},
+						{
+							"name": "金昌市",
+							"value": "0.04",
+							"provinceName": "甘肃省",
+							"tgi": "132"
+						},
+						{
+							"name": "辽源市",
+							"value": "0.04",
+							"provinceName": "吉林省",
+							"tgi": "89"
+						},
+						{
+							"name": "七台河市",
+							"value": "0.04",
+							"provinceName": "黑龙江省",
+							"tgi": "99"
+						},
+						{
+							"name": "甘南藏族自治州",
+							"value": "0.03",
+							"provinceName": "甘肃省",
+							"tgi": "131"
+						},
+						{
+							"name": "博尔塔拉蒙古自治州",
+							"value": "0.03",
+							"provinceName": "新疆维吾尔自治区",
+							"tgi": "109"
+						},
+						{
+							"name": "德宏傣族景颇族自治州",
+							"value": "0.03",
+							"provinceName": "云南省",
+							"tgi": "51"
+						},
+						{
+							"name": "鹤岗市",
+							"value": "0.03",
+							"provinceName": "黑龙江省",
+							"tgi": "81"
+						},
+						{
+							"name": "香港特别行政区",
+							"value": "0.03",
+							"provinceName": "香港特别行政区",
+							"tgi": "15"
+						},
+						{
+							"name": "那曲地区",
+							"value": "0.03",
+							"provinceName": "西藏自治区",
+							"tgi": "196"
+						},
+						{
+							"name": "铜川市",
+							"value": "0.03",
+							"provinceName": "陕西省",
+							"tgi": "73"
+						},
+						{
+							"name": "阿拉善盟",
+							"value": "0.03",
+							"provinceName": "内蒙古自治区",
+							"tgi": "149"
+						},
+						{
+							"name": "嘉峪关市",
+							"value": "0.02",
+							"provinceName": "甘肃省",
+							"tgi": "125"
+						},
+						{
+							"name": "玉树藏族自治州",
+							"value": "0.02",
+							"provinceName": "青海省",
+							"tgi": "212"
+						},
+						{
+							"name": "怒江傈僳族自治州",
+							"value": "0.02",
+							"provinceName": "云南省",
+							"tgi": "90"
+						},
+						{
+							"name": "海北藏族自治州",
+							"value": "0.02",
+							"provinceName": "青海省",
+							"tgi": "145"
+						},
+						{
+							"name": "迪庆藏族自治州",
+							"value": "0.02",
+							"provinceName": "云南省",
+							"tgi": "98"
+						},
+						{
+							"name": "阿里地区",
+							"value": "0.01",
+							"provinceName": "西藏自治区",
+							"tgi": "177"
+						},
+						{
+							"name": "大兴安岭地区",
+							"value": "0.01",
+							"provinceName": "黑龙江省",
+							"tgi": "77"
+						},
+						{
+							"name": "黄南藏族自治州",
+							"value": "0.01",
+							"provinceName": "青海省",
+							"tgi": "48"
+						},
+						{
+							"name": "澳门特别行政区",
+							"value": "0.01",
+							"provinceName": "澳门特别行政区",
+							"tgi": "31"
+						},
+						{
+							"name": "果洛藏族自治州",
+							"value": "0.01",
+							"provinceName": "青海省",
+							"tgi": "184"
+						}
+					]
+				},
+				  {
+					"insightName":"思域",
+					"cityTop10VOList": [
+					  {
+						"name": "宿迁市",
+						"value": "50.00",
+						"tgi": "14272"
+					  },
+					  {
+						"name": "湖州市",
+						"value": "42.09",
+						"tgi": "15428"
+					  },
+					  {
+						"name": "舟山市",
+						"value": "7.90",
+						"tgi": "7981"
+					  }
+					],
+					"provinceDistributeVOList": [
+					  {
+						"name": "江苏",
+						"value": "50.00",
+						"tgi": "6.572558976"
+					  },
+					  {
+						"name": "浙江",
+						"value": "50.00",
+						"tgi": "8.241632071"
+					  }
+					],
+					"cityLevelPieChartVOList": [
+					  {
+						"name": "四线及以下城市",
+						"value": "100.00"
+					  }
+					],
+					"cityVOList": [
+					  {
+						"name": "宿迁市",
+						"value": "50.00",
+						"provinceName": "江苏省",
+						"tgi": "14272"
+					  },
+					  {
+						"name": "湖州市",
+						"value": "42.09",
+						"provinceName": "浙江省",
+						"tgi": "15428"
+					  },
+					  {
+						"name": "舟山市",
+						"value": "7.90",
+						"provinceName": "浙江省",
+						"tgi": "7981"
+					  }
+					]
+				}
+			],
+			"crowdPreferVO": {
+			  "top10AppChartVO": 
+			  [
+				{
+					"insightName":"逍客",
+					"top10AppxAxis": [
+					  "支付宝",
+					  "抖音",
+					  "美团",
+					  "微信",
+					  "QQ",
+					  "小红书",
+					  "手机淘宝",
+					  "京东",
+					  "拼多多",
+					  "百度"
+					],
+					"top10AppList": [
+					  {
+						"cname": "活跃率",
+						"cdata": [
+						  "55.34",
+						  "88.68",
+						  "63.31",
+						  "56.01",
+						  "12.04",
+						  "63.37",
+						  "94.67",
+						  "54.83",
+						  "45.48",
+						  "21.45"
+						],
+						"iname": "TGI",
+						"idata": [
+							"353",
+							"121",
+							"45.31",
+							"12.01",
+							"345.04",
+							"23.37",
+							"65.67",
+							"23.83",
+							"545.48",
+							"23.45"
+						]
+					  }
+					]
+				  },
+				  {
+					"insightName":"思域",
+					"top10AppxAxis": [
+					  "支付宝",
+					  "抖音",
+					  "美团",
+					  "微信",
+					  "QQ",
+					  "小红书",
+					  "手机淘宝",
+					  "京东",
+					  "拼多多",
+					  "百度"
+					],
+					"top10AppList": [
+					  {
+						"cname": "活跃率",
+						"cdata": [
+						  "97.34",
+						  "88.68",
+						  "63.31",
+						  "99.01",
+						  "84.04",
+						  "63.37",
+						  "94.67",
+						  "63.83",
+						  "87.48",
+						  "74.45"
+						],
+						"iname": "TGI",
+						"idata": [
+							"31",
+							"121",
+							"45.31",
+							"12.01",
+							"45.04",
+							"76.37",
+							"23.67",
+							"63.83",
+							"56.48",
+							"21.45"
+						]
+					  }
+					]
+				  },
+				  {
+					"insightName":"楼兰",
+					"top10AppxAxis": [
+					  "支付宝",
+					  "抖音",
+					  "美团",
+					  "微信",
+					  "QQ",
+					  "小红书",
+					  "手机淘宝",
+					  "京东",
+					  "拼多多",
+					  "百度"
+					],
+					"top10AppList": [
+					  {
+						"cname": "活跃率",
+						"cdata": [
+						  "97.34",
+						  "88.68",
+						  "63.31",
+						  "99.01",
+						  "84.04",
+						  "63.37",
+						  "94.67",
+						  "63.83",
+						  "87.48",
+						  "74.45"
+						],
+						"iname": "TGI",
+						"idata": [
+							"31",
+							"121",
+							"45.31",
+							"12.01",
+							"45.04",
+							"76.37",
+							"23.67",
+							"63.83",
+							"56.48",
+							"21.45"
+						]
+					  }
+					]
+				  }
+			  ],
+			  "categoryTop10VO": 
+			  [
+				{
+					"insightName":"逍客",
+					"categoryXAxis": [
+					  "购物",
+					  "影音",
+					  "聊天社交",
+					  "丽人母婴",
+					  "生活实用",
+					  "图像",
+					  "金融理财",
+					  "新闻阅读",
+					  "效率办公",
+					  "生活服务"
+					],
+					"categoryList": [
+					  {
+						"cname": "活跃率",
+						"cdata": [
+						  "100.00",
+						  "100.00",
+						  "100.00",
+						  "97.21",
+						  "97.16",
+						  "85.66",
+						  "84.76",
+						  "80.68",
+						  "75.39",
+						  "59.71"
+						],
+						"iname": "TGI",
+						"idata": [
+						  "107",
+						  "102",
+						  "100",
+						  "330",
+						  "122",
+						  "146",
+						  "127",
+						  "117",
+						  "118",
+						  "144"
+						]
+					  }
+					]
+				  },
+				  {
+					"insightName":"思域",
+					"categoryXAxis": [
+					  "购物",
+					  "影音",
+					  "聊天社交",
+					  "丽人母婴",
+					  "生活实用",
+					  "图像",
+					  "金融理财",
+					  "新闻阅读",
+					  "效率办公",
+					  "生活服务"
+					],
+					"categoryList": [
+					  {
+						"cname": "活跃率",
+						"cdata": [
+						  "21.12",
+						  "33.12",
+						  "122.22",
+						  "97.21",
+						  "97.16",
+						  "23.66",
+						  "84.76",
+						  "232.68",
+						  "3.39",
+						  "43.71"
+						],
+						"iname": "TGI",
+						"idata": [
+						  "45",
+						  "345",
+						  "100",
+						  "34",
+						  "23",
+						  "146",
+						  "45",
+						  "343",
+						  "118",
+						  "64"
+						]
+					  }
+					]
+				  },
+				  {
+					"insightName":"楼兰",
+					"categoryXAxis": [
+					  "购物",
+					  "影音",
+					  "聊天社交",
+					  "丽人母婴",
+					  "生活实用",
+					  "图像",
+					  "金融理财",
+					  "新闻阅读",
+					  "效率办公",
+					  "生活服务"
+					],
+					"categoryList": [
+					  {
+						"cname": "活跃率",
+						"cdata": [
+						  "21.12",
+						  "33.12",
+						  "122.22",
+						  "97.21",
+						  "97.16",
+						  "23.66",
+						  "84.76",
+						  "232.68",
+						  "3.39",
+						  "43.71"
+						],
+						"iname": "TGI",
+						"idata": [
+						  "45",
+						  "345",
+						  "100",
+						  "34",
+						  "23",
+						  "146",
+						  "45",
+						  "343",
+						  "118",
+						  "64"
+						]
+					  }
+					]
+				  }
+			  ],
+			  "top10PhoneBrandChartVO": {
+				"top10PhoneBrandxAxis": [
+				  "华为",
+				  "vivo",
+				  "oppo",
+				  "荣耀",
+				  "小米",
+				  "真我",
+				  "三星",
+				  "一加",
+				  "美图",
+				  "魅族",
+				  "摩托罗拉"
+				],
+				"top10PhoneBrandList": [
+				  {
+					"cname": "占比",
+					"cdata": [
+					  "33.20",
+					  "29.97",
+					  "21.24",
+					  "10.35",
+					  "2.80",
+					  "0.76",
+					  "0.66",
+					  "0.40",
+					  "0.19",
+					  "0.11",
+					  "0.06"
+					],
+					"iname": null,
+					"idata": null
+				  }
+				]
+			  },
+			  "serviceProvidePieChartVOList": [
+				{
+				  "name": "中国移动",
+				  "value": "77.02"
+				},
+				{
+				  "name": "中国联通",
+				  "value": "10.20"
+				},
+				{
+				  "name": "中国电信",
+				  "value": "8.26"
+				},
+				{
+				  "name": "其他运营商",
+				  "value": "4.52"
+				}
+			  ],
+			  "audienceRate": "99.01",
+			  "numberPeopleCover": "14117",
+			  "wordCloudVOList": [
+				{
+				  "name": "银行",
+				  "value": 76.81
+				},
+				{
+				  "name": "育儿工具",
+				  "value": 75.21
+				},
+				{
+				  "name": "新闻资讯",
+				  "value": 67.94
+				},
+				{
+				  "name": "海淘购",
+				  "value": 64.91
+				},
+				{
+				  "name": "办公软件",
+				  "value": 63.92
+				},
+				{
+				  "name": "影音制作",
+				  "value": 51.66
+				},
+				{
+				  "name": "微博",
+				  "value": 45.66
+				},
+				{
+				  "name": "外卖",
+				  "value": 40.28
+				},
+				{
+				  "name": "健康医疗",
+				  "value": 38.78
+				},
+				{
+				  "name": "存储云盘",
+				  "value": 36.65
+				},
+				{
+				  "name": "支付",
+				  "value": 36.47
+				},
+				{
+				  "name": "中小学教育",
+				  "value": 35.66
+				},
+				{
+				  "name": "美容美妆",
+				  "value": 34.79
+				},
+				{
+				  "name": "电视直播",
+				  "value": 34.43
+				},
+				{
+				  "name": "听书",
+				  "value": 32.55
+				},
+				{
+				  "name": "电台",
+				  "value": 32.16
+				},
+				{
+				  "name": "休闲旅行",
+				  "value": 32.01
+				},
+				{
+				  "name": "生理健康",
+				  "value": 29.44
+				},
+				{
+				  "name": "二手购",
+				  "value": 25.16
+				},
+				{
+				  "name": "K歌",
+				  "value": 24.86
+				},
+				{
+				  "name": "小说",
+				  "value": 24.78
+				},
+				{
+				  "name": "动漫视频",
+				  "value": 24.46
+				},
+				{
+				  "name": "邮箱",
+				  "value": 23.4
+				},
+				{
+				  "name": "线下看诊",
+				  "value": 22.58
+				},
+				{
+				  "name": "天气查询",
+				  "value": 22.12
+				},
+				{
+				  "name": "运动健身",
+				  "value": 21.88
+				},
+				{
+				  "name": "视频直播",
+				  "value": 20.03
+				},
+				{
+				  "name": "餐厅推荐",
+				  "value": 19.3
+				},
+				{
+				  "name": "保险",
+				  "value": 17.3
+				},
+				{
+				  "name": "投资理财",
+				  "value": 17.2
+				},
+				{
+				  "name": "铃声",
+				  "value": 16.09
+				},
+				{
+				  "name": "火车高铁",
+				  "value": 15.45
+				},
+				{
+				  "name": "求职",
+				  "value": 15.06
+				},
+				{
+				  "name": "英语培训",
+				  "value": 14.55
+				},
+				{
+				  "name": "快递",
+				  "value": 14.21
+				},
+				{
+				  "name": "语言学习",
+				  "value": 14.21
+				},
+				{
+				  "name": "精明购",
+				  "value": 13.85
+				},
+				{
+				  "name": "打车出行",
+				  "value": 13.32
+				},
+				{
+				  "name": "信用卡",
+				  "value": 12.75
+				},
+				{
+				  "name": "学前教育",
+				  "value": 11.62
+				}
+			  ]
+			},
+			"heatMap": 0
+		  }
+	

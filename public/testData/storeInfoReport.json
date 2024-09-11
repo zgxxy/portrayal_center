@@ -1,0 +1,1130 @@
+{
+    "competitorBrand":[
+        {
+            "logo":"gqfengt.jpg",
+            "brandName":"广汽丰田汽车",
+            "storeNum":"15"
+        },
+        {
+            "logo":"dazhong.jpg",
+            "brandName":"大众汽车",
+            "storeNum":"10"
+        },
+        {
+            "logo":"audi.jpg",
+            "brandName":"奥迪汽车",
+            "storeNum":"8"
+        }
+    ],
+    "synergyBrand":[
+        {
+            "logo":"dfrc.jpg",
+            "brandName":"东风日产",
+            "storeNum":"30"
+        },
+        {
+            "logo":"dfqichen.jpg",
+            "brandName":"东风启辰",
+            "storeNum":"5"
+        }
+    ],
+    "regionRank":[
+        {
+            "region":"天河",
+            "targetProp":"14",
+            "commercialExponent":4
+        },
+        {
+            "region":"番禺",
+            "targetProp":"13",
+            "commercialExponent":1.5
+        },
+        {
+            "region":"白云",
+            "targetProp":"12",
+            "commercialExponent":1.7
+        },
+        {
+            "region":"花都",
+            "targetProp":"11",
+            "commercialExponent":2.7
+        },
+        {
+            "region":"增城",
+            "targetProp":"10",
+            "commercialExponent":1.4
+        },
+        {
+            "region":"荔湾",
+            "targetProp":"7",
+            "commercialExponent":1.2
+        },
+        {
+            "region":"海珠",
+            "targetProp":"10",
+            "commercialExponent":2.3
+        },
+        {
+            "region":"黄埔",
+            "targetProp":"7",
+            "commercialExponent":1
+        },
+        {
+            "region":"从化",
+            "targetProp":"4",
+            "commercialExponent":1.3
+        },
+        {
+            "region":"南沙",
+            "targetProp":"3",
+            "commercialExponent":1.3
+        },
+        {
+            "region":"越秀",
+            "targetProp":"1",
+            "commercialExponent":1.61
+        }
+    ],
+    "position":[
+        {
+            "cityName":"广州",
+            "name":"安骅雪佛兰总店",
+            "brand":"雪佛兰",
+            "geoCenter":{
+                "lng": "113.39956",
+                "lat": "23.110381"
+            },
+            "url":"xuefl.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广物汽贸东风雪铁龙4S店",
+            "brand":"东风雪铁龙",
+            "geoCenter":{
+                "lng": "113.262044",
+                "lat": "23.185654"
+            },
+            "url":"dfxuetl.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州和富汽车",
+            "brand":"大众",
+            "geoCenter":{
+                "lng": "113.351825",
+                "lat": "22.961472"
+            },
+            "url":"dazhong.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"东风日产",
+            "brand":"东风日产",
+            "geoCenter":{
+                "lng": "113.232635",
+                "lat": "23.069534"
+            },
+            "url":"dfrc.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州迎宾一汽丰田4S店",
+            "brand":"一汽丰田",
+            "geoCenter":{
+                "lng": "113.371101",
+                "lat": "22.959171"
+            },
+            "url":"fengt.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"上汽大众广州璟众店",
+            "brand":"大众",
+            "geoCenter":{
+                "lng": "113.213516",
+                "lat": "23.072859"
+            },
+            "url":"dazhong.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广汽丰田",
+            "brand":"广汽丰田",
+            "geoCenter":{
+                "lng": "113.383804",
+                "lat": "23.190668"
+            },
+            "url":"gqfengt.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广汽丰田第一店",
+            "brand":"广汽丰田",
+            "geoCenter":{
+                "lng": "113.371384",
+                "lat": "23.121265"
+            },
+            "url":"gqfengt.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州元都汽车销售服务有限公司",
+            "brand":"英菲尼迪",
+            "geoCenter":{
+                "lng": "113.41906",
+                "lat": "23.128384"
+            },
+            "url":"yingfnd.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州成远一汽马自达4S店",
+            "brand":"马自达",
+            "geoCenter":{
+                "lng": "113.230576",
+                "lat": "23.209568"
+            },
+            "url":"mazd.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州永佳丰田",
+            "brand":"丰田",
+            "geoCenter":{
+                "lng": "113.332108",
+                "lat": "23.020708"
+            },
+            "url":"fengt.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州华驰福威福特4S店",
+            "brand":"福特",
+            "geoCenter":{
+                "lng": "113.351285",
+                "lat": "23.181176"
+            },
+            "url":"fute.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"宝马MINI4S店",
+            "brand":"宝马",
+            "geoCenter":{
+                "lng": "113.405937",
+                "lat": "23.142096"
+            },
+            "url":"BMW.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"BENTLEY",
+            "brand":"宾利",
+            "geoCenter":{
+                "lng": "113.328636",
+                "lat": "23.114094"
+            },
+            "url":"binl.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州番禺长安汽车销售有限公司",
+            "brand":"长安",
+            "geoCenter":{
+                "lng": "113.371229",
+                "lat": "22.96439"
+            },
+            "url":"changan.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州长和广汽丰田4S店",
+            "brand":"广汽丰田",
+            "geoCenter":{
+                "lng": "113.302538",
+                "lat": "23.229045"
+            },
+            "url":"gqfengt.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州长宁广汽丰田4S店",
+            "brand":"广汽丰田",
+            "geoCenter":{
+                "lng": "113.362991",
+                "lat": "23.085621"
+            },
+            "url":"gqfengt.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广东物资集团汽车贸易公司黄石路中华4S专卖店",
+            "brand":"中华",
+            "geoCenter":{
+                "lng": "113.274401",
+                "lat": "23.203291"
+            },
+            "url":"zhonghua.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广东广物骏达上汽斯柯达7S旗舰店",
+            "brand":"斯柯达",
+            "geoCenter":{
+                "lng": "113.190401",
+                "lat": "23.066381"
+            },
+            "url":"sikeda.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广东广物鸿福福特4S店",
+            "brand":"福特",
+            "geoCenter":{
+                "lng": "113.190435",
+                "lat": "23.066265"
+            },
+            "url":"fute.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"宝骏汽车广东五菱",
+            "brand":"五菱",
+            "geoCenter":{
+                "lng": "113.262344",
+                "lat": "23.187246"
+            },
+            "url":"wul.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广汽本田汽车恒福特约销售服务店",
+            "brand":"广汽本田",
+            "geoCenter":{
+                "lng": "113.434697",
+                "lat": "23.124118"
+            },
+            "url":"gqbent.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州鸿用别克4S店",
+            "brand":"别克",
+            "geoCenter":{
+                "lng": "113.336662",
+                "lat": "23.016578"
+            },
+            "url":"buick.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州市锦龙汽车发展有限公司",
+            "brand":"一汽大众",
+            "geoCenter":{
+                "lng": "113.41256",
+                "lat": "23.134779"
+            },
+            "url":"yqdazhong.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广东君乐一汽大众4S店",
+            "brand":"一汽大众",
+            "geoCenter":{
+                "lng": "113.26088",
+                "lat": "23.184616"
+            },
+            "url":"yqdazhong.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州骏龙广汽丰田4S店",
+            "brand":"广汽丰田",
+            "geoCenter":{
+                "lng": "113.420563",
+                "lat": "23.112076"
+            },
+            "url":"gqfengt.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广东龙骑郑州日产4S店",
+            "brand":"郑州日产",
+            "geoCenter":{
+                "lng": "113.34766",
+                "lat": "23.12475"
+            },
+            "url":"zzrc.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州龙星行奔驰4S店（MAR2020数字展厅）",
+            "brand":"奔驰",
+            "geoCenter":{
+                "lng": "113.362084",
+                "lat": "23.085214"
+            },
+            "url":"benz.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州庆丰一汽丰田",
+            "brand":"一汽丰田",
+            "geoCenter":{
+                "lng": "113.229454",
+                "lat": "23.210043"
+            },
+            "url":"fengt.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"奔驰广东仁孚怡邦",
+            "brand":"奔驰",
+            "geoCenter":{
+                "lng": "113.387444",
+                "lat": "23.12545"
+            },
+            "url":"benz.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州沙河一汽丰田",
+            "brand":"一汽丰田",
+            "geoCenter":{
+                "lng": "113.318314",
+                "lat": "23.173271"
+            },
+            "url":"fengt.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广东粤宝宝马4S店",
+            "brand":"宝马",
+            "geoCenter":{
+                "lng": "113.285217",
+                "lat": "23.196432"
+            },
+            "url":"BMW.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州中升一汽丰田4S店",
+            "brand":"一汽丰田",
+            "geoCenter":{
+                "lng": "113.603542",
+                "lat": "23.142778"
+            },
+            "url":"fengt.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州中升雷克萨斯",
+            "brand":"雷克萨斯",
+            "geoCenter":{
+                "lng": "113.398743",
+                "lat": "23.09289"
+            },
+            "url":"leikss.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"粤通泰来别克",
+            "brand":"别克",
+            "geoCenter":{
+                "lng": "113.35061",
+                "lat": "22.938958"
+            },
+            "url":"buick.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州长悦雷克萨斯",
+            "brand":"雷克萨斯",
+            "geoCenter":{
+                "lng": "113.273354",
+                "lat": "23.159489"
+            },
+            "url":"leikss.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州梅花园一汽大众4S店",
+            "brand":"一汽大众",
+            "geoCenter":{
+                "lng": "113.318946",
+                "lat": "23.179146"
+            },
+            "url":"yqdazhong.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"广州胜亚旗舰店",
+            "brand":"起亚",
+            "geoCenter":{
+                "lng": "113.356016",
+                "lat": "22.981705"
+            },
+            "url":"qiya.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"本田汽车",
+            "brand":"本田",
+            "geoCenter":{
+                "lng": "113.535491",
+                "lat": "23.116052"
+            },
+            "url":"bent.jpg"
+        },
+        {
+            "cityName":"广州",
+            "name":"海马销售服务店",
+            "brand":"海马",
+            "geoCenter":{
+                "lng": "113.193965",
+                "lat": "23.066701"
+            },
+            "url":"haima.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"北京现代武汉华星鸿泰特约销售服务店",
+            "brand":"现代",
+            "geoCenter":{
+                "lng": "114.198842",
+                "lat": "30.550042"
+            },
+            "url":"xiandai.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉恒信一通一汽大众4S店",
+            "brand":"一汽大众",
+            "geoCenter":{
+                "lng": "114.203795",
+                "lat": "30.547685"
+            },
+            "url":"yqdazhong.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"中华轿车4S店",
+            "brand":"中华",
+            "geoCenter":{
+                "lng": "114.202441",
+                "lat": "30.545891"
+            },
+            "url":"zhonghua.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉安奇东风本田4S店",
+            "brand":"东风本田",
+            "geoCenter":{
+                "lng": "114.202965",
+                "lat": "30.548727"
+            },
+            "url":"dfbent.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉龙阳本田",
+            "brand":"本田",
+            "geoCenter":{
+                "lng": "114.20252",
+                "lat": "30.593602"
+            },
+            "url":"bent.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"湖北博诚别克4S店",
+            "brand":"别克",
+            "geoCenter":{
+                "lng": "114.280189",
+                "lat": "30.628359"
+            },
+            "url":"buick.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉利达一汽马自达4S店",
+            "brand":"一汽马自达",
+            "geoCenter":{
+                "lng": "114.282511",
+                "lat": "30.630642"
+            },
+            "url":"yqmazd.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"达田汽车·广汽本田",
+            "brand":"广汽本田",
+            "geoCenter":{
+                "lng": "114.337638",
+                "lat": "30.513138"
+            },
+            "url":"gqbent.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉中南丰田汽车销售有限公司",
+            "brand":"丰田",
+            "geoCenter":{
+                "lng": "114.331955",
+                "lat": "30.484558"
+            },
+            "url":"fengt.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉友芝友广汽本田4S店",
+            "brand":"广汽本田",
+            "geoCenter":{
+                "lng": "114.243019",
+                "lat": "30.621958"
+            },
+            "url":"gqbent.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风日产武汉三环华通专营店",
+            "brand":"东风日产",
+            "geoCenter":{
+                "lng": "114.337077",
+                "lat": "30.513544"
+            },
+            "url":"dfrc.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"正通开泰日产",
+            "brand":"日产",
+            "geoCenter":{
+                "lng": "114.279952",
+                "lat": "30.627912"
+            },
+            "url":"ric.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉星威奔驰4S店",
+            "brand":"奔驰",
+            "geoCenter":{
+                "lng": "114.239698",
+                "lat": "30.623463"
+            },
+            "url":"benz.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉盘龙保时捷中心",
+            "brand":"保时捷",
+            "geoCenter":{
+                "lng": "114.238235",
+                "lat": "30.723204"
+            },
+            "url":"porsche.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉汇丰东风本田4S店",
+            "brand":"东风本田",
+            "geoCenter":{
+                "lng": "114.210721",
+                "lat": "30.60733"
+            },
+            "url":"dfbent.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉宏亚坤东风本田4S店",
+            "brand":"东风本田",
+            "geoCenter":{
+                "lng": "114.339642",
+                "lat": "30.510919"
+            },
+            "url":"dfbent.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"长城汽车",
+            "brand":"长城",
+            "geoCenter":{
+                "lng": "114.302794",
+                "lat": "30.660804"
+            },
+            "url":"changc.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉宝泽宝马4S店",
+            "brand":"宝马",
+            "geoCenter":{
+                "lng": "114.280243",
+                "lat": "30.630526"
+            },
+            "url":"BMW.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风雪铁龙",
+            "brand":"东风雪铁龙",
+            "geoCenter":{
+                "lng": "114.461981",
+                "lat": "30.509921"
+            },
+            "url":"dfxuetl.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉恒信汉迪奥迪4S店",
+            "brand":"奥迪",
+            "geoCenter":{
+                "lng": "114.204056",
+                "lat": "30.547592"
+            },
+            "url":"audi.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉雷克萨斯",
+            "brand":"雷克萨斯",
+            "geoCenter":{
+                "lng": "114.174194",
+                "lat": "30.565704"
+            },
+            "url":"leikss.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"湖北江淮汽车销售服务有限责任公司",
+            "brand":"江淮",
+            "geoCenter":{
+                "lng": "114.175914",
+                "lat": "30.566012"
+            },
+            "url":"jianghuai.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉实华一汽丰田4S店",
+            "brand":"一汽丰田",
+            "geoCenter":{
+                "lng": "114.243301",
+                "lat": "30.627746"
+            },
+            "url":"fengt.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉康顺华驰奔驰4S店",
+            "brand":"奔驰",
+            "geoCenter":{
+                "lng": "114.239471",
+                "lat": "30.72529"
+            },
+            "url":"benz.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉览丰雷克萨斯",
+            "brand":"雷克萨斯",
+            "geoCenter":{
+                "lng": "114.241508",
+                "lat": "30.726"
+            },
+            "url":"leikss.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉银马长安马自达4S店",
+            "brand":"长安马自达",
+            "geoCenter":{
+                "lng": "114.166191",
+                "lat": "30.569841"
+            },
+            "url":"camazd.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉三环瀚通上汽大众斯柯达4S店",
+            "brand":"上汽大众、斯柯达",
+            "geoCenter":{
+                "lng": "114.402596",
+                "lat": "30.45783"
+            },
+            "url":""
+        },
+        {
+            "cityName":"武汉",
+            "name":"Infiniti",
+            "brand":"英菲尼迪",
+            "geoCenter":{
+                "lng": "114.403259",
+                "lat": "30.458012"
+            },
+            "url":"yingfnd.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"广汽本田",
+            "brand":"广汽本田",
+            "geoCenter":{
+                "lng": "114.203251",
+                "lat": "30.549098"
+            },
+            "url":"gqbent.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风鸿泰",
+            "brand":"东风神龙",
+            "geoCenter":{
+                "lng": "114.160381",
+                "lat": "30.488571"
+            },
+            "url":""
+        },
+        {
+            "cityName":"武汉",
+            "name":"源华长城汽车4S店",
+            "brand":"长城",
+            "geoCenter":{
+                "lng": "114.17761",
+                "lat": "30.56656"
+            },
+            "url":"changc.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉荣爵上汽荣威4S店",
+            "brand":"上汽荣威",
+            "geoCenter":{
+                "lng": "114.194145",
+                "lat": "30.535385"
+            },
+            "url":"rongwei.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风本田汽车有限公司第一工厂",
+            "brand":"东风本田",
+            "geoCenter":{
+                "lng": "114.176611",
+                "lat": "30.474991"
+            },
+            "url":"dfbent.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"湖北三环辰通上汽荣威4S店",
+            "brand":"上汽荣威",
+            "geoCenter":{
+                "lng": "114.43329",
+                "lat": "30.49791"
+            },
+            "url":"rongwei.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风鸿泰南湖武汉东风雪铁龙4S店",
+            "brand":"东风雪铁龙",
+            "geoCenter":{
+                "lng": "114.34761",
+                "lat": "30.479488"
+            },
+            "url":"dfxuetl.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉长江众发上汽大众4S店",
+            "brand":"上汽大众",
+            "geoCenter":{
+                "lng": "114.388855",
+                "lat": "30.599754"
+            },
+            "url":"sqdazhong.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉富尔一汽大众4S店",
+            "brand":"一汽大众",
+            "geoCenter":{
+                "lng": "114.390404",
+                "lat": "30.599392"
+            },
+            "url":"yqdazhong.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉兆丰标龙汽车销售服务有限公司",
+            "brand":"东风雪铁龙",
+            "geoCenter":{
+                "lng": "114.390877",
+                "lat": "30.598957"
+            },
+            "url":"dfxuetl.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉中达江宝宝马4S店",
+            "brand":"宝马",
+            "geoCenter":{
+                "lng": "114.372734",
+                "lat": "30.375872"
+            },
+            "url":"BMW.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉友芝友中环东风本田4S店",
+            "brand":"东风本田",
+            "geoCenter":{
+                "lng": "114.30245",
+                "lat": "30.659494"
+            },
+            "url":"dfbent.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风鸿泰汽车销售有限公司武汉江岸分公司",
+            "brand":"东风标致",
+            "geoCenter":{
+                "lng": "114.278987",
+                "lat": "30.627507"
+            },
+            "url":"dfbiaoz.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"广恒汽车",
+            "brand":"北京现代",
+            "geoCenter":{
+                "lng": "114.324774",
+                "lat": "30.477914"
+            },
+            "url":"bjxiandai.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉美诚雷诺",
+            "brand":"雷诺",
+            "geoCenter":{
+                "lng": "114.166345",
+                "lat": "30.570165"
+            },
+            "url":"leinuo.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"三环海通别克",
+            "brand":"别克",
+            "geoCenter":{
+                "lng": "114.433465",
+                "lat": "30.49884"
+            },
+            "url":"buick.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉优诚盛强汽车销售服务有限公司",
+            "brand":"上海大众",
+            "geoCenter":{
+                "lng": "114.200942",
+                "lat": "30.608902"
+            },
+            "url":"shdazhong.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉汇佳广汽丰田4S店",
+            "brand":"广汽丰田",
+            "geoCenter":{
+                "lng": "114.211433",
+                "lat": "30.607277"
+            },
+            "url":"gqfengt.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"中发雪铁龙4S店",
+            "brand":"雪铁龙",
+            "geoCenter":{
+                "lng": "114.401688",
+                "lat": "30.458488"
+            },
+            "url":"xuetl.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉南琦东风风行4S店",
+            "brand":"东风风行",
+            "geoCenter":{
+                "lng": "114.257427",
+                "lat": "30.634877"
+            },
+            "url":"dffengx.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉华星天佑北京现代4S店",
+            "brand":"北京现代",
+            "geoCenter":{
+                "lng": "114.420815",
+                "lat": "30.482883"
+            },
+            "url":"bjxiandai.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风小康湖北紫星专营店",
+            "brand":"东风小康",
+            "geoCenter":{
+                "lng": "114.303577",
+                "lat": "30.661217"
+            },
+            "url":"dfxiaokang.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉海景汽车销售有限公司",
+            "brand":"宝马、奔驰、奥迪、大众",
+            "geoCenter":{
+                "lng": "114.302786",
+                "lat": "30.661077"
+            },
+            "url":""
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉昌利源经贸有限公司",
+            "brand":"吉利",
+            "geoCenter":{
+                "lng": "114.280569",
+                "lat": "30.627126"
+            },
+            "url":"jili.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风风行武汉东安专营店",
+            "brand":"东风风行",
+            "geoCenter":{
+                "lng": "114.24218",
+                "lat": "30.58547"
+            },
+            "url":"dffengx.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"北京现代三环泽通特约销售服务店",
+            "brand":"北京现代",
+            "geoCenter":{
+                "lng": "114.301369",
+                "lat": "30.661479"
+            },
+            "url":"bjxiandai.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"湖北三环瑞通雪佛兰4S店",
+            "brand":"雪佛兰",
+            "geoCenter":{
+                "lng": "114.201046",
+                "lat": "30.545839"
+            },
+            "url":"xuefl.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风风神东峻旗舰店",
+            "brand":"东风风神",
+            "geoCenter":{
+                "lng": "114.076995",
+                "lat": "30.45407"
+            },
+            "url":"dffengs.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉安利捷一汽丰田4S店",
+            "brand":"一汽丰田",
+            "geoCenter":{
+                "lng": "114.199831",
+                "lat": "30.543731"
+            },
+            "url":"fengt.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"宝骏汽车销售有限公司",
+            "brand":"上汽通用五菱",
+            "geoCenter":{
+                "lng": "114.36969",
+                "lat": "30.408398"
+            },
+            "url":"sqwul.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉利莱行汽车销售服务有限公司",
+            "brand":"劳斯莱斯",
+            "geoCenter":{
+                "lng": "114.237539",
+                "lat": "30.723739"
+            },
+            "url":"rolls.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"武汉鄂之宝汽车销售服务有限公司",
+            "brand":"MINI",
+            "geoCenter":{
+                "lng": "114.239456",
+                "lat": "30.724413"
+            },
+            "url":"MINI.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风风神湖北飞速专营店",
+            "brand":"东风风神",
+            "geoCenter":{
+                "lng": "114.114861",
+                "lat": "30.611731"
+            },
+            "url":"dffengs.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"湖北东富汽车一汽大众4S店",
+            "brand":"一汽大众",
+            "geoCenter":{
+                "lng": "114.363319",
+                "lat": "30.508406"
+            },
+            "url":"yqdazhong.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"湖北骏马长城销售服务站",
+            "brand":"长城",
+            "geoCenter":{
+                "lng": "114.317078",
+                "lat": "30.522058"
+            },
+            "url":"changc.jpg"
+        },
+        {
+            "cityName":"武汉",
+            "name":"东风鸿泰汽车销售有限公司武汉沙湖分公司",
+            "brand":"东风标致",
+            "geoCenter":{
+                "lng": "114.343189",
+                "lat": "30.579554"
+            },
+            "url":"dfbiaoz.jpg"
+        }
+    ]
+}

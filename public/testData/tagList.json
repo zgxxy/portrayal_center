@@ -1,0 +1,408 @@
+{
+"data1":[
+	{
+	  "name": "年龄",
+	  "children": [
+		{
+		  "name": "18-24岁",
+		  "value": "PBA01100200"
+		},
+		{
+		  "name": "25-34岁",
+		  "value": "PBA01100300"
+		},
+		{
+		  "name": "35-44岁",
+		  "value": "PBA01100400"
+		},
+		{
+		  "name": "45+岁",
+		  "value": "PBA01100500"
+		},
+		{
+		  "name": "25-29岁",
+		  "value": "PBA01050600"
+		},
+		{
+		  "name": "30-34岁",
+		  "value": "PBA01050700"
+		},
+		{
+		  "name": "35-39岁",
+		  "value": "PBA01050800"
+		},
+		{
+		  "name": "40-44岁",
+		  "value": "PBA01050900"
+		},
+		{
+		  "name": "45-49岁",
+		  "value": "PBA01051000"
+		},
+		{
+		  "name": "50-54岁",
+		  "value": "PBA01051100"
+		},
+		{
+		  "name": "55-59岁",
+		  "value": "PBA01051200"
+		},
+		{
+		  "name": "60+岁",
+		  "value": "PBA01051300"
+		}
+	  ],
+	  "checked": null
+	},
+	{
+	  "name": "性别",
+	  "children": [
+		{
+		  "name": "女",
+		  "value": "PBA02010000"
+		},
+		{
+		  "name": "男",
+		  "value": "PBA02020000"
+		}
+	  ],
+	  "checked": null
+	},
+	{
+	  "name": "有小孩",
+	  "children": [
+		{
+		  "name": "备孕",
+		  "value": "PBA03010000"
+		},
+		{
+		  "name": "孕期",
+		  "value": "PBA03020000"
+		},
+		{
+		  "name": "0-1岁小孩父母",
+		  "value": "PBA03030000"
+		},
+		{
+		  "name": "1-3岁小孩父母",
+		  "value": "PBA03040000"
+		},
+		{
+		  "name": "3-6岁小孩父母",
+		  "value": "PBA03050000"
+		},
+		{
+		  "name": "小学生家长",
+		  "value": "PBA03060000"
+		},
+		{
+		  "name": "中学生家长",
+		  "value": "PBA03070000"
+		}
+	  ],
+	  "checked": null
+	},
+	{
+	  "name": "消费水平",
+	  "children": [
+		{
+		  "name": "低消费",
+		  "value": "PBA04010000"
+		},
+		{
+		  "name": "中消费",
+		  "value": "PBA04020000"
+		},
+		{
+		  "name": "高消费",
+		  "value": "PBA04030000"
+		}
+	  ],
+	  "checked": null
+	},
+	{
+	  "name": "消费行为",
+	  "children": [
+		{
+		  "name": "有车",
+		  "value": "PBA05030000"
+		},
+		{
+		  "name": "富人",
+		  "value": "PBA05040000"
+		}
+	  ],
+	  "checked": null
+	},
+	{
+	  "name": "婚姻状态",
+	  "children": [
+		{
+		  "name": "找对象",
+		  "value": "PBA06010000"
+		},
+		{
+		  "name": "未婚",
+		  "value": "PBA06020000"
+		},
+		{
+		  "name": "已婚",
+		  "value": "PBA06030000"
+		}
+	  ],
+	  "checked": null
+	},
+	{
+	  "name": "职业",
+	  "children": [
+		{
+		  "name": "大学生",
+		  "value": "PBA07010000"
+		},
+		{
+		  "name": "求职中",
+		  "value": "PBA07020000"
+		},
+		{
+		  "name": "白领",
+		  "value": "PBA07030000"
+		},
+		{
+		  "name": "教师",
+		  "value": "PBA07040000"
+		},
+		{
+		  "name": "程序员",
+		  "value": "PBA07050000"
+		},
+		{
+		  "name": "医生",
+		  "value": "PBA07060000"
+		},
+		{
+		  "name": "货车司机",
+		  "value": "PBA07070000"
+		},
+		{
+		  "name": "网约车司机",
+		  "value": "PBA07080000"
+		},
+		{
+		  "name": "产品经理",
+		  "value": "PBA07430000"
+		},
+		{
+		  "name": "证券从业人员",
+		  "value": "PBA07450000"
+		},
+		{
+		  "name": "会计从业人员",
+		  "value": "PBA07460000"
+		},
+		{
+		  "name": "保险从业人员",
+		  "value": "PBA07470000"
+		},
+		{
+		  "name": "银行从业人员",
+		  "value": "PBA07480000"
+		},
+		{
+		  "name": "科研人员",
+		  "value": "PBA07490000"
+		},
+		{
+		  "name": "律师",
+		  "value": "PBA07500000"
+		},
+		{
+		  "name": "人力资源人员",
+		  "value": "PBA07510000"
+		},
+		{
+		  "name": "代驾",
+		  "value": "PBA07540000"
+		},
+		{
+		  "name": "工人",
+		  "value": "PBA07550000"
+		},
+		{
+		  "name": "外卖配送员",
+		  "value": "PBA07580000"
+		},
+		{
+		  "name": "快递员",
+		  "value": "PBA07590000"
+		},
+		{
+		  "name": "导游",
+		  "value": "PBA07600000"
+		},
+		{
+		  "name": "建筑师",
+		  "value": "PBA07610000"
+		},
+		{
+		  "name": "个体户",
+		  "value": "PBA07620000"
+		},
+		{
+		  "name": "演艺人员",
+		  "value": "PBA07630000"
+		},
+		{
+		  "name": "主播",
+		  "value": "PBA07640000"
+		},
+		{
+		  "name": "退休人员",
+		  "value": "PBA07650000"
+		},
+		{
+		  "name": "蓝领",
+		  "value": "PBA07670000"
+		}
+	  ],
+	  "checked": null
+	},
+	{
+	  "name": "居住城市级别",
+	  "children": [
+		{
+		  "name": "一线城市",
+		  "value": "PBA08010100"
+		},
+		{
+		  "name": "二线城市",
+		  "value": "PBA08010200"
+		},
+		{
+		  "name": "三线城市",
+		  "value": "PBA08010300"
+		},
+		{
+		  "name": "四线及以下城市",
+		  "value": "PBA08010400"
+		}
+	  ],
+	  "checked": null
+	}
+  ],
+  "data2":[
+	{
+		"name": "人流量",
+		"children": [
+		  {
+			"value": "≥10万",
+			"name": "≥10万"
+		  },
+		  {
+			"value": "≥50万",
+			"name": "≥50万"
+		  },
+		  {
+			"value": "≥100万",
+			"name": "≥100万"
+		  }
+		]
+	  },
+	  {
+		"name": "消费水平",
+		"children": [
+		  {
+			"value": "高",
+			"name": "高"
+		  },
+		  {
+			"value": "中",
+			"name": "中"
+		  },
+		  {
+			"value": "低",
+			"name": "低"
+		  }
+		]
+	  },
+	  {
+		"name": "商场体量",
+		"children": [
+		  {
+			"value": "3万㎡以下",
+			"name": "3万㎡以下"
+		  },
+		  {
+			"value": "3-5万㎡",
+			"name": "3-5万㎡"
+		  },
+		  {
+			"value": "5-10万㎡",
+			"name": "5-10万㎡"
+		  },
+		  {
+			"value": "10-15万㎡",
+			"name": "10-15万㎡"
+		  },
+		  {
+			"value": "15万㎡以上",
+			"name": "15万㎡以上"
+		  }
+		]
+	  },
+	  {
+		"name": "开业年限",
+		"children": [
+		  {
+			"value": "1年内",
+			"name": "1年内"
+		  },
+		  {
+			"value": "2-3年",
+			"name": "2-3年"
+		  },
+		  {
+			"value": "4-5年",
+			"name": "4-5年"
+		  },
+		  {
+			"value": "5年以上",
+			"name": "5年以上"
+		  }
+		]
+	  },
+	  {
+		"name": "距离地铁站",
+		"children": [
+		  {
+			"value": "0.5公里内",
+			"name": "0.5公里内"
+		  },
+		  {
+			"value": "1公里内",
+			"name": "1公里内"
+		  },
+		  {
+			"value": "2公里内",
+			"name": "2公里内"
+		  },
+		  {
+			"value": "3公里内",
+			"name": "3公里内"
+		  }
+		]
+	  },
+	  {
+		"name": "所处商圈",
+		"children": [
+		  {
+			"value": "优质商圈",
+			"name": "优质商圈"
+		  },
+		  {
+			"value": "普通商圈",
+			"name": "普通商圈"
+		  }
+		]
+	  }
+  ]	
+}
